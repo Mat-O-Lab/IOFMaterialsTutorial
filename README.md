@@ -51,7 +51,11 @@
 ## Data Conversion
 A simple Measurements Table
   - Create CSV Table with Length consecutive Measurements of the Objects Length, see for [example](measurements.csv).
-  - Conversion of Table to RDF with [CSVToCSVW](https://chowlk.linkeddata.es/)
+  - Conversion of Table to RDF with [CSVToCSVW](https://csvtocsvw.matolab.org/)
+    - upload csv file
+  ![new drawio graph](./images/csvtocsvw_upload.png)
+    - download csvw meta data
+  ![new drawio graph](./images/csvtocsvw_download.png)
 ## Create a Mapping
 Create a Mapping of Graph to Data Table
     - Create a Mapping with [MapToMethod](https://maptomethod.matolab.org/)
