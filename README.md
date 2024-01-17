@@ -88,7 +88,7 @@ Use the Mapping with [RDFConverter](https://rdfconverter.matolab.org/)
     and click on Start Mapping
 - a joined graph will be created and is available for download
 ![new drawio graph](./images/rdfconverter_download.png)
-and click Create Mapping
+and download the graph.
 - example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-joined.ttl)
 ## Load Data
 Load Data to Triplestore

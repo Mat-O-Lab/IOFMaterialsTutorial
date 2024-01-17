@@ -67,14 +67,14 @@ iof:realizes a owl:ObjectProperty ;
     iof:hasOutput :LengthData ;
     iof:realizes :LengthMeasureCapability .
 
-iof:MeasurementCapability a owl:Class ;
-    rdfs:label "Measurement Capability" .
-
 iof:MeasurementInformationContentEntity a owl:Class ;
     rdfs:label "Measurement Information Content Entity" .
 
 iof:MeasurementProcess a owl:Class ;
     rdfs:label "Measurement Process" .
+
+iof-mat:DistanceMeasurementCapability a owl:Class ;
+    rdfs:label "Distance Measurement Capability" .
 
 iof-mat:MeasurementDevice a owl:Class ;
     rdfs:label "Measurement Device" .
@@ -90,7 +90,7 @@ iof-qual:Length a owl:Class ;
     iof:hasCapability :LengthMeasureCapability .
 
 :LengthMeasureCapability a owl:NamedIndividual,
-        iof:MeasurementCapability .
+        iof-mat:DistanceMeasurementCapability .
 
 :SpecimenLength a owl:NamedIndividual,
         iof-qual:Length ;
