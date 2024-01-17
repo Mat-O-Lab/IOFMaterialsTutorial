@@ -6,7 +6,7 @@
 - [Basic Tutorial](#basic-tutorial)
   - [Introduction DrawIO and Chowlk](#introduction-drawio-and-chowlk)
   - [Data Conversion](#data-conversion)
-  - [Create a Mappings](#create-a-mappings)
+  - [Create a Mapping](#create-a-mapping)
   - [Apply Mapping](#apply-mapping)
   - [Load Data](#load-data)
   - [Query Data](#query-data)
@@ -57,7 +57,7 @@ A simple Measurements Table
   - download csvw meta data
 ![new drawio graph](./images/csvtocsvw_download.png)
   - example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json)
-## Create a Mappings
+## Create a Mapping
 Create a Mapping of Graph to Data Table with [MapToMethod](https://maptomethod.matolab.org/)
 - Upload your measurements meta data file to a publicly available web location or use the example url
   ```
@@ -78,7 +78,18 @@ and click Create Mapping
 - example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-map.yaml)
   
 ## Apply Mapping
-Apply Mapping to RDF Data
+Use the Mapping with [RDFConverter](https://rdfconverter.matolab.org/)
+- Upload your mapping file to a publicly available web location or use the example url
+  ```
+  https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-map.yaml
+  ```
+- visit and paste above url to the URL Field Mapping
+  ![new drawio graph](./images/rdfconverter_conversion.png)
+    and click on Start Mapping
+- a joined graph will be created and is available for download
+![new drawio graph](./images/rdfconverter_download.png)
+and click Create Mapping
+- example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-joined.ttl)
 ## Load Data
 Load Data to Triplestore
 ## Query Data
