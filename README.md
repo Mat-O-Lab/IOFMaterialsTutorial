@@ -22,12 +22,32 @@
   ```
   LenghtMeasurement.drawio.xml
   ```
+  ![new drawio graph](./images/drawio_newgraph.png)
+ 
  - Install IOF Materials ScratchPad from
   ```
-  Url Scatchpad
+  https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/IOFMaterialsScatchpad.xml
   ```
- - Create a Simple Graph: Measure the Length of a Object
- - converserion to RDF with [Chowlk](https://chowlk.linkeddata.es/)
+  by clicking Open Library from/URL
+  ![new drawio graph](./images/drawio_openlibrary.png)
+ - Create a Simple Graph: Measurement of the Length of a Object by using Scratchpad Elements.
+   - First add the Prefix and the Provenance Boxes. Make Changes to the template value.
+  ![new drawio graph](./images/drawio_prefixesandprov.png)
+  Therefor change the labels in the double Boxes to ur Needs. The upper Box is used for the rdf:type definition of the named Individual. The lower Box label ist the Name of the Individual. It Must be unique i the graph and should be a human understandable name in the context of the graph. 
+   - Add the MeaurementProcess Block from the Scatchpad to ur Graph
+  ![new drawio graph](./images/drawio_measurementprocess.png)
+  Change the Type Definitions: \
+  iof:MeasurementCapability -> iof-mat:DistanceMeasurementCapability \
+  iof:Quality -> iof-qual:Length \
+  Also change all the Labels of the lower boxes.
+   - A complete example can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/LenghtMeasurement.drawio.xml)
+  ![new drawio graph](./images/LenghtMeasurement.drawio.png)
+ - conversion to RDF with [Chowlk](https://chowlk.linkeddata.es/)
+    - upload your drawio xml file
+    ![new drawio graph](./images/chowlk_upload.png)
+    - download the result or react to the protocoled warnings or errors
+    ![new drawio graph](./images/chowlk_download.png)
+    - A complete example can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/LenghtMeasurement.ttl)
 ## Data Conversion
 A simple Measurements Table
   - Create Table with Length consequtive Measurements of the Objects Length
