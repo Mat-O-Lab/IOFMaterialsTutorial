@@ -50,7 +50,7 @@
     - A complete example can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/LenghtMeasurement.ttl)
 ## Data Conversion
 A simple Measurements Table
-  - Create Table with Length consequtive Measurements of the Objects Length
+  - Create CSV Table with Length consecutive Measurements of the Objects Length, see for [example](measurements.csv).
   - Conversion of Table to RDF with [CSVToCSVW](https://chowlk.linkeddata.es/)
 ## Create a Mapping
 Create a Mapping of Graph to Data Table
