@@ -1,0 +1,22 @@
+prefixes: {bfo: 'http://purl.obolibrary.org/obo/', csvw: 'http://www.w3.org/ns/csvw#',
+  data: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json/',
+  method: 'https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/LengthMeasurement.ttl/',
+  owl: 'http://www.w3.org/2002/07/owl#', rdf: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#',
+  rdfs: 'http://www.w3.org/2000/01/rdf-schema#', xml: 'http://www.w3.org/XML/1998/namespace',
+  xsd: 'http://www.w3.org/2001/XMLSchema#'}
+base: http://purl.matolab.org/mseo/mappings/
+sources:
+  data_entities: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
+    iterator: '$..[*]', referenceFormulation: jsonpath}
+use_template_rowwise: 'false'
+mappings:
+  LengthData:
+    sources: [data_entities]
+    s: $(@id)
+    condition:
+      function: equal
+      parameters:
+      - [str1, $(name)]
+      - [str2, LengthMm]
+    po:
+    - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:LengthData~iri']

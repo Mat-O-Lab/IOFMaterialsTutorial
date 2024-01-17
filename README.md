@@ -6,7 +6,7 @@
 - [Basic Tutorial](#basic-tutorial)
   - [Introduction DrawIO and Chowlk](#introduction-drawio-and-chowlk)
   - [Data Conversion](#data-conversion)
-  - [Create a Mapping](#create-a-mapping)
+  - [Create a Mappings](#create-a-mappings)
   - [Apply Mapping](#apply-mapping)
   - [Load Data](#load-data)
   - [Query Data](#query-data)
@@ -50,15 +50,33 @@
     - A complete example can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/LenghtMeasurement.ttl)
 ## Data Conversion
 A simple Measurements Table
-  - Create CSV Table with Length consecutive Measurements of the Objects Length, see for [example](measurements.csv).
-  - Conversion of Table to RDF with [CSVToCSVW](https://csvtocsvw.matolab.org/)
-    - upload csv file
-  ![new drawio graph](./images/csvtocsvw_upload.png)
-    - download csvw meta data
-  ![new drawio graph](./images/csvtocsvw_download.png)
-## Create a Mapping
-Create a Mapping of Graph to Data Table
-    - Create a Mapping with [MapToMethod](https://maptomethod.matolab.org/)
+- Create CSV Table with Length consecutive Measurements of the Objects Length, see for [example](measurements.csv).
+- Conversion of Table to RDF with [CSVToCSVW](https://csvtocsvw.matolab.org/)
+  - upload csv file
+![new drawio graph](./images/csvtocsvw_upload.png)
+  - download csvw meta data
+![new drawio graph](./images/csvtocsvw_download.png)
+  - example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json)
+## Create a Mappings
+Create a Mapping of Graph to Data Table with [MapToMethod](https://maptomethod.matolab.org/)
+- Upload your measurements meta data file to a publicly available web location or use the example url
+  ```
+  https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json
+  ```
+
+- visit and paste above url to the URL META DATA Field and the location of ur Measurement Graph Turtle File to the URL METHOD GRAPH FIELD
+  ```
+  https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/LengthMeasurement.ttl
+  ```
+    ![new drawio graph](./images/maptomethod_form.png)
+    and click on Start Mapping
+- in the new form pick from the dropdown the column in ur measurement data file that u want to map to your method graph
+![new drawio graph](./images/maptomethod_map.png)
+and click Create Mapping
+- download the create rulebases Yarrml mapping
+![new drawio graph](./images/maptomethod_download.png)
+- example output can be found [here](https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-map.yaml)
+  
 ## Apply Mapping
 Apply Mapping to RDF Data
 ## Load Data
