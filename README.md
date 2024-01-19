@@ -52,7 +52,11 @@
 A simple Measurements Table
 - Create CSV Table with Length consecutive Measurements of the Objects Length, see for [example](measurements.csv).
 - Conversion of Table to RDF with [CSVToCSVW](https://csvtocsvw.matolab.org/)
-  - upload csv file
+  - upload csv file or better use a web location of ur csvfile, so it can be resolved through the meta data generated
+  ```
+  https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements.csv
+  ```
+
 ![new drawio graph](./images/csvtocsvw_upload.png)
   - download csvw meta data
 ![new drawio graph](./images/csvtocsvw_download.png)

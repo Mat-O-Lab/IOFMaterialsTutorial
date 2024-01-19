@@ -8,16 +8,16 @@
             "qudt": "http://qudt.org/schema/qudt/",
             "dc": "http://purl.org/dc/elements/1.1/",
             "prov": "http://www.w3.org/ns/prov#",
-            "csv": "file:///src/measurements.csv/"
+            "csv": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/"
         }
     ],
-    "@id": "measurements.csv",
+    "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv",
     "@type": "http://www.w3.org/ns/csvw#TableGroup",
     "notes": [],
     "tables": [
         {
-            "@id": "file:///src/measurements.csv/table-1",
-            "url": "measurements.csv",
+            "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/table-1",
+            "url": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv",
             "dialect": {
                 "delimiter": ";",
                 "skipRows": 0,
@@ -27,7 +27,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "@id": "file:///src/measurements.csv/table-1-GID",
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/table-1-GID",
                         "name": "GID",
                         "titles": [
                             "GID",
@@ -43,7 +43,7 @@
                             "Unnamed: 0",
                             "Unnamed0"
                         ],
-                        "@id": "file:///src/measurements.csv/table-1-Unnamed0",
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/table-1-Unnamed0",
                         "name": "Unnamed0",
                         "@type": [
                             "Column"
@@ -57,7 +57,7 @@
                             "length [mm]",
                             "LengthMm"
                         ],
-                        "@id": "file:///src/measurements.csv/table-1-LengthMm",
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/table-1-LengthMm",
                         "name": "LengthMm",
                         "qudt:unit": {
                             "@id": "http://qudt.org/vocab/unit/MilliM",
@@ -72,22 +72,22 @@
                     }
                 ],
                 "primaryKey": "GID",
-                "aboutUrl": "file:///src/measurements.csv/table-1-gid-{GID}"
+                "aboutUrl": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/measurements.csv/table-1-gid-{GID}"
             }
         }
     ],
     "prov:wasGeneratedBy": {
-        "@id": "https://csvtocsvw.matolab.org/",
+        "@id": "http://docker-dev.iwm.fraunhofer.de:6001/",
         "@type": "prov:Activity",
         "prov:wasAssociatedWith": {
-            "@id": "https://github.com/Mat-O-Lab/CSVToCSVW/releases/tag/v1.2.2",
-            "rdfs:label": "CSVtoCSVWv1.2.2",
+            "@id": "https://github.com/Mat-O-Lab/CSVToCSVW/releases/tag/v1.3.0",
+            "rdfs:label": "CSVtoCSVWv1.3.0",
             "prov:hadPrimarySource": "https://github.com/Mat-O-Lab/CSVToCSVW",
             "@type": "prov:SoftwareAgent"
         }
     },
     "prov:generatedAtTime": {
-        "@value": "2024-01-17T13:28:51.633459",
+        "@value": "2024-01-19T07:54:10.102200",
         "@type": "xsd:dateTime"
     }
 }
