@@ -1,0 +1,209 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "oa": "http://www.w3.org/ns/oa#",
+            "label": "http://www.w3.org/2000/01/rdf-schema#label",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "qudt": "http://qudt.org/schema/qudt/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "prov": "http://www.w3.org/ns/prov#",
+            "csv": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/"
+        }
+    ],
+    "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv",
+    "@type": "http://www.w3.org/ns/csvw#TableGroup",
+    "notes": [],
+    "tables": [
+        {
+            "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1",
+            "url": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv",
+            "dialect": {
+                "delimiter": ",",
+                "skipRows": 0,
+                "headerRowCount": 1,
+                "encoding": "latin-1"
+            },
+            "tableSchema": {
+                "columns": [
+                    {
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-GID",
+                        "name": "GID",
+                        "titles": [
+                            "GID",
+                            "Generic Identifier"
+                        ],
+                        "datatype": "string",
+                        "required": true,
+                        "suppressOutput": true,
+                        "@type": "Column"
+                    },
+                    {
+                        "titles": [
+                            "specimenID",
+                            "Specimenid"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Specimenid",
+                        "name": "Specimenid",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "materialName",
+                            "Materialname"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Materialname",
+                        "name": "Materialname",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "materialStockID",
+                            "Materialstockid"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Materialstockid",
+                        "name": "Materialstockid",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "specimenPreparation",
+                            "Specimenpreparation"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Specimenpreparation",
+                        "name": "Specimenpreparation",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "testStandards",
+                            "Teststandards"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Teststandards",
+                        "name": "Teststandards",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "particleSize [\u00c2\u00b5m]",
+                            "Particlesizem"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Particlesizem",
+                        "name": "Particlesizem",
+                        "qudt:unit": {
+                            "@id": "http://qudt.org/vocab/unit/MicroM",
+                            "@type": "http://qudt.org/schema/qudt/DerivedUnit"
+                        },
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#integer"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "particleSizeUnit",
+                            "Particlesizeunit"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Particlesizeunit",
+                        "name": "Particlesizeunit",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "percentOfMass [%]",
+                            "Percentofmass"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Percentofmass",
+                        "name": "Percentofmass",
+                        "qudt:unit": {
+                            "@id": "http://qudt.org/vocab/unit/PERCENT",
+                            "@type": "http://qudt.org/schema/qudt/Unit"
+                        },
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#double"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "percentOfMassUnit",
+                            "Percentofmassunit"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Percentofmassunit",
+                        "name": "Percentofmassunit",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    },
+                    {
+                        "titles": [
+                            "testType",
+                            "Testtype"
+                        ],
+                        "@id": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-Testtype",
+                        "name": "Testtype",
+                        "@type": [
+                            "Column"
+                        ],
+                        "format": {
+                            "@id": "http://www.w3.org/2001/XMLSchema#string"
+                        }
+                    }
+                ],
+                "primaryKey": "GID",
+                "aboutUrl": "https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv/table-1-gid-{GID}"
+            }
+        }
+    ],
+    "prov:wasGeneratedBy": {
+        "@id": "http://docker-dev.iwm.fraunhofer.de:6001/",
+        "@type": "prov:Activity",
+        "prov:wasAssociatedWith": {
+            "@id": "https://github.com/Mat-O-Lab/CSVToCSVW/releases/tag/v1.3.0",
+            "rdfs:label": "CSVtoCSVWv1.3.0",
+            "prov:hadPrimarySource": "https://github.com/Mat-O-Lab/CSVToCSVW",
+            "@type": "prov:SoftwareAgent"
+        }
+    },
+    "prov:generatedAtTime": {
+        "@value": "2024-01-29T10:03:21.804291",
+        "@type": "xsd:dateTime"
+    }
+}
