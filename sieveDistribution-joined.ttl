@@ -4257,10 +4257,6 @@ ns1:table-1-gid-0 ns1:Materialname [ a oa:Annotation ;
 row0:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row0:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row0:MassMeasurementCapability .
-
 row0:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row0:ASTM_B214-07 ;
@@ -4334,10 +4330,6 @@ ns1:table-1-gid-1 ns1:Materialname [ a oa:Annotation ;
 
 row1:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row1:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row1:MassMeasurementCapability .
 
 row1:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -4413,10 +4405,6 @@ ns1:table-1-gid-10 ns1:Materialname [ a oa:Annotation ;
 row10:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row10:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row10:MassMeasurementCapability .
-
 row10:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row10:ASTM_B214-07 ;
@@ -4490,10 +4478,6 @@ ns1:table-1-gid-100 ns1:Materialname [ a oa:Annotation ;
 
 row100:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row100:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row100:MassMeasurementCapability .
 
 row100:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -4569,10 +4553,6 @@ ns1:table-1-gid-101 ns1:Materialname [ a oa:Annotation ;
 row101:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row101:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row101:MassMeasurementCapability .
-
 row101:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row101:ASTM_B214-07 ;
@@ -4646,10 +4626,6 @@ ns1:table-1-gid-102 ns1:Materialname [ a oa:Annotation ;
 
 row102:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row102:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row102:MassMeasurementCapability .
 
 row102:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -4725,10 +4701,6 @@ ns1:table-1-gid-103 ns1:Materialname [ a oa:Annotation ;
 row103:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row103:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row103:MassMeasurementCapability .
-
 row103:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row103:ASTM_B214-07 ;
@@ -4802,10 +4774,6 @@ ns1:table-1-gid-104 ns1:Materialname [ a oa:Annotation ;
 
 row104:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row104:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row104:MassMeasurementCapability .
 
 row104:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -4881,10 +4849,6 @@ ns1:table-1-gid-105 ns1:Materialname [ a oa:Annotation ;
 row105:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row105:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row105:MassMeasurementCapability .
-
 row105:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row105:ASTM_B214-07 ;
@@ -4958,10 +4922,6 @@ ns1:table-1-gid-106 ns1:Materialname [ a oa:Annotation ;
 
 row106:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row106:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row106:MassMeasurementCapability .
 
 row106:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5037,10 +4997,6 @@ ns1:table-1-gid-107 ns1:Materialname [ a oa:Annotation ;
 row107:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row107:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row107:MassMeasurementCapability .
-
 row107:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row107:ASTM_B214-07 ;
@@ -5114,10 +5070,6 @@ ns1:table-1-gid-108 ns1:Materialname [ a oa:Annotation ;
 
 row108:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row108:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row108:MassMeasurementCapability .
 
 row108:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5193,10 +5145,6 @@ ns1:table-1-gid-109 ns1:Materialname [ a oa:Annotation ;
 row109:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row109:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row109:MassMeasurementCapability .
-
 row109:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row109:ASTM_B214-07 ;
@@ -5270,10 +5218,6 @@ ns1:table-1-gid-11 ns1:Materialname [ a oa:Annotation ;
 
 row11:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row11:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row11:MassMeasurementCapability .
 
 row11:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5349,10 +5293,6 @@ ns1:table-1-gid-110 ns1:Materialname [ a oa:Annotation ;
 row110:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row110:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row110:MassMeasurementCapability .
-
 row110:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row110:ASTM_B214-07 ;
@@ -5426,10 +5366,6 @@ ns1:table-1-gid-111 ns1:Materialname [ a oa:Annotation ;
 
 row111:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row111:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row111:MassMeasurementCapability .
 
 row111:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5505,10 +5441,6 @@ ns1:table-1-gid-112 ns1:Materialname [ a oa:Annotation ;
 row112:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row112:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row112:MassMeasurementCapability .
-
 row112:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row112:ASTM_B214-07 ;
@@ -5582,10 +5514,6 @@ ns1:table-1-gid-113 ns1:Materialname [ a oa:Annotation ;
 
 row113:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row113:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row113:MassMeasurementCapability .
 
 row113:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5661,10 +5589,6 @@ ns1:table-1-gid-114 ns1:Materialname [ a oa:Annotation ;
 row114:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row114:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row114:MassMeasurementCapability .
-
 row114:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row114:ASTM_B214-07 ;
@@ -5738,10 +5662,6 @@ ns1:table-1-gid-115 ns1:Materialname [ a oa:Annotation ;
 
 row115:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row115:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row115:MassMeasurementCapability .
 
 row115:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5817,10 +5737,6 @@ ns1:table-1-gid-116 ns1:Materialname [ a oa:Annotation ;
 row116:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row116:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row116:MassMeasurementCapability .
-
 row116:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row116:ASTM_B214-07 ;
@@ -5894,10 +5810,6 @@ ns1:table-1-gid-117 ns1:Materialname [ a oa:Annotation ;
 
 row117:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row117:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row117:MassMeasurementCapability .
 
 row117:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -5973,10 +5885,6 @@ ns1:table-1-gid-118 ns1:Materialname [ a oa:Annotation ;
 row118:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row118:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row118:MassMeasurementCapability .
-
 row118:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row118:ASTM_B214-07 ;
@@ -6050,10 +5958,6 @@ ns1:table-1-gid-119 ns1:Materialname [ a oa:Annotation ;
 
 row119:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row119:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row119:MassMeasurementCapability .
 
 row119:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6129,10 +6033,6 @@ ns1:table-1-gid-12 ns1:Materialname [ a oa:Annotation ;
 row12:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row12:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row12:MassMeasurementCapability .
-
 row12:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row12:ASTM_B214-07 ;
@@ -6206,10 +6106,6 @@ ns1:table-1-gid-120 ns1:Materialname [ a oa:Annotation ;
 
 row120:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row120:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row120:MassMeasurementCapability .
 
 row120:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6285,10 +6181,6 @@ ns1:table-1-gid-121 ns1:Materialname [ a oa:Annotation ;
 row121:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row121:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row121:MassMeasurementCapability .
-
 row121:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row121:ASTM_B214-07 ;
@@ -6362,10 +6254,6 @@ ns1:table-1-gid-122 ns1:Materialname [ a oa:Annotation ;
 
 row122:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row122:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row122:MassMeasurementCapability .
 
 row122:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6441,10 +6329,6 @@ ns1:table-1-gid-123 ns1:Materialname [ a oa:Annotation ;
 row123:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row123:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row123:MassMeasurementCapability .
-
 row123:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row123:ASTM_B214-07 ;
@@ -6518,10 +6402,6 @@ ns1:table-1-gid-124 ns1:Materialname [ a oa:Annotation ;
 
 row124:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row124:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row124:MassMeasurementCapability .
 
 row124:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6597,10 +6477,6 @@ ns1:table-1-gid-125 ns1:Materialname [ a oa:Annotation ;
 row125:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row125:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row125:MassMeasurementCapability .
-
 row125:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row125:ASTM_B214-07 ;
@@ -6674,10 +6550,6 @@ ns1:table-1-gid-126 ns1:Materialname [ a oa:Annotation ;
 
 row126:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row126:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row126:MassMeasurementCapability .
 
 row126:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6753,10 +6625,6 @@ ns1:table-1-gid-127 ns1:Materialname [ a oa:Annotation ;
 row127:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row127:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row127:MassMeasurementCapability .
-
 row127:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row127:ASTM_B214-07 ;
@@ -6830,10 +6698,6 @@ ns1:table-1-gid-128 ns1:Materialname [ a oa:Annotation ;
 
 row128:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row128:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row128:MassMeasurementCapability .
 
 row128:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -6909,10 +6773,6 @@ ns1:table-1-gid-129 ns1:Materialname [ a oa:Annotation ;
 row129:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row129:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row129:MassMeasurementCapability .
-
 row129:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row129:ASTM_B214-07 ;
@@ -6986,10 +6846,6 @@ ns1:table-1-gid-13 ns1:Materialname [ a oa:Annotation ;
 
 row13:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row13:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row13:MassMeasurementCapability .
 
 row13:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7065,10 +6921,6 @@ ns1:table-1-gid-130 ns1:Materialname [ a oa:Annotation ;
 row130:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row130:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row130:MassMeasurementCapability .
-
 row130:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row130:ASTM_B214-07 ;
@@ -7142,10 +6994,6 @@ ns1:table-1-gid-131 ns1:Materialname [ a oa:Annotation ;
 
 row131:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row131:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row131:MassMeasurementCapability .
 
 row131:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7221,10 +7069,6 @@ ns1:table-1-gid-132 ns1:Materialname [ a oa:Annotation ;
 row132:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row132:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row132:MassMeasurementCapability .
-
 row132:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row132:ASTM_B214-07 ;
@@ -7298,10 +7142,6 @@ ns1:table-1-gid-133 ns1:Materialname [ a oa:Annotation ;
 
 row133:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row133:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row133:MassMeasurementCapability .
 
 row133:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7377,10 +7217,6 @@ ns1:table-1-gid-134 ns1:Materialname [ a oa:Annotation ;
 row134:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row134:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row134:MassMeasurementCapability .
-
 row134:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row134:ASTM_B214-07 ;
@@ -7454,10 +7290,6 @@ ns1:table-1-gid-135 ns1:Materialname [ a oa:Annotation ;
 
 row135:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row135:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row135:MassMeasurementCapability .
 
 row135:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7533,10 +7365,6 @@ ns1:table-1-gid-136 ns1:Materialname [ a oa:Annotation ;
 row136:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row136:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row136:MassMeasurementCapability .
-
 row136:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row136:ASTM_B214-07 ;
@@ -7610,10 +7438,6 @@ ns1:table-1-gid-137 ns1:Materialname [ a oa:Annotation ;
 
 row137:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row137:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row137:MassMeasurementCapability .
 
 row137:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7689,10 +7513,6 @@ ns1:table-1-gid-138 ns1:Materialname [ a oa:Annotation ;
 row138:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row138:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row138:MassMeasurementCapability .
-
 row138:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row138:ASTM_B214-07 ;
@@ -7766,10 +7586,6 @@ ns1:table-1-gid-139 ns1:Materialname [ a oa:Annotation ;
 
 row139:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row139:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row139:MassMeasurementCapability .
 
 row139:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -7845,10 +7661,6 @@ ns1:table-1-gid-14 ns1:Materialname [ a oa:Annotation ;
 row14:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row14:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row14:MassMeasurementCapability .
-
 row14:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row14:ASTM_B214-07 ;
@@ -7922,10 +7734,6 @@ ns1:table-1-gid-140 ns1:Materialname [ a oa:Annotation ;
 
 row140:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row140:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row140:MassMeasurementCapability .
 
 row140:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8001,10 +7809,6 @@ ns1:table-1-gid-141 ns1:Materialname [ a oa:Annotation ;
 row141:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row141:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row141:MassMeasurementCapability .
-
 row141:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row141:ASTM_B214-07 ;
@@ -8078,10 +7882,6 @@ ns1:table-1-gid-142 ns1:Materialname [ a oa:Annotation ;
 
 row142:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row142:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row142:MassMeasurementCapability .
 
 row142:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8157,10 +7957,6 @@ ns1:table-1-gid-143 ns1:Materialname [ a oa:Annotation ;
 row143:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row143:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row143:MassMeasurementCapability .
-
 row143:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row143:ASTM_B214-07 ;
@@ -8234,10 +8030,6 @@ ns1:table-1-gid-144 ns1:Materialname [ a oa:Annotation ;
 
 row144:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row144:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row144:MassMeasurementCapability .
 
 row144:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8313,10 +8105,6 @@ ns1:table-1-gid-145 ns1:Materialname [ a oa:Annotation ;
 row145:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row145:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row145:MassMeasurementCapability .
-
 row145:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row145:ASTM_B214-07 ;
@@ -8390,10 +8178,6 @@ ns1:table-1-gid-146 ns1:Materialname [ a oa:Annotation ;
 
 row146:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row146:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row146:MassMeasurementCapability .
 
 row146:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8469,10 +8253,6 @@ ns1:table-1-gid-147 ns1:Materialname [ a oa:Annotation ;
 row147:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row147:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row147:MassMeasurementCapability .
-
 row147:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row147:ASTM_B214-07 ;
@@ -8546,10 +8326,6 @@ ns1:table-1-gid-148 ns1:Materialname [ a oa:Annotation ;
 
 row148:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row148:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row148:MassMeasurementCapability .
 
 row148:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8625,10 +8401,6 @@ ns1:table-1-gid-149 ns1:Materialname [ a oa:Annotation ;
 row149:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row149:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row149:MassMeasurementCapability .
-
 row149:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row149:ASTM_B214-07 ;
@@ -8702,10 +8474,6 @@ ns1:table-1-gid-15 ns1:Materialname [ a oa:Annotation ;
 
 row15:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row15:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row15:MassMeasurementCapability .
 
 row15:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8781,10 +8549,6 @@ ns1:table-1-gid-150 ns1:Materialname [ a oa:Annotation ;
 row150:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row150:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row150:MassMeasurementCapability .
-
 row150:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row150:ASTM_B214-07 ;
@@ -8858,10 +8622,6 @@ ns1:table-1-gid-151 ns1:Materialname [ a oa:Annotation ;
 
 row151:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row151:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row151:MassMeasurementCapability .
 
 row151:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -8937,10 +8697,6 @@ ns1:table-1-gid-152 ns1:Materialname [ a oa:Annotation ;
 row152:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row152:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row152:MassMeasurementCapability .
-
 row152:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row152:ASTM_B214-07 ;
@@ -9014,10 +8770,6 @@ ns1:table-1-gid-153 ns1:Materialname [ a oa:Annotation ;
 
 row153:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row153:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row153:MassMeasurementCapability .
 
 row153:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9093,10 +8845,6 @@ ns1:table-1-gid-154 ns1:Materialname [ a oa:Annotation ;
 row154:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row154:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row154:MassMeasurementCapability .
-
 row154:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row154:ASTM_B214-07 ;
@@ -9170,10 +8918,6 @@ ns1:table-1-gid-155 ns1:Materialname [ a oa:Annotation ;
 
 row155:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row155:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row155:MassMeasurementCapability .
 
 row155:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9249,10 +8993,6 @@ ns1:table-1-gid-156 ns1:Materialname [ a oa:Annotation ;
 row156:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row156:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row156:MassMeasurementCapability .
-
 row156:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row156:ASTM_B214-07 ;
@@ -9326,10 +9066,6 @@ ns1:table-1-gid-157 ns1:Materialname [ a oa:Annotation ;
 
 row157:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row157:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row157:MassMeasurementCapability .
 
 row157:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9405,10 +9141,6 @@ ns1:table-1-gid-158 ns1:Materialname [ a oa:Annotation ;
 row158:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row158:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row158:MassMeasurementCapability .
-
 row158:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row158:ASTM_B214-07 ;
@@ -9482,10 +9214,6 @@ ns1:table-1-gid-159 ns1:Materialname [ a oa:Annotation ;
 
 row159:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row159:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row159:MassMeasurementCapability .
 
 row159:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9561,10 +9289,6 @@ ns1:table-1-gid-16 ns1:Materialname [ a oa:Annotation ;
 row16:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row16:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row16:MassMeasurementCapability .
-
 row16:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row16:ASTM_B214-07 ;
@@ -9638,10 +9362,6 @@ ns1:table-1-gid-160 ns1:Materialname [ a oa:Annotation ;
 
 row160:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row160:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row160:MassMeasurementCapability .
 
 row160:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9717,10 +9437,6 @@ ns1:table-1-gid-161 ns1:Materialname [ a oa:Annotation ;
 row161:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row161:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row161:MassMeasurementCapability .
-
 row161:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row161:ASTM_B214-07 ;
@@ -9794,10 +9510,6 @@ ns1:table-1-gid-162 ns1:Materialname [ a oa:Annotation ;
 
 row162:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row162:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row162:MassMeasurementCapability .
 
 row162:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -9873,10 +9585,6 @@ ns1:table-1-gid-163 ns1:Materialname [ a oa:Annotation ;
 row163:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row163:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row163:MassMeasurementCapability .
-
 row163:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row163:ASTM_B214-07 ;
@@ -9950,10 +9658,6 @@ ns1:table-1-gid-164 ns1:Materialname [ a oa:Annotation ;
 
 row164:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row164:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row164:MassMeasurementCapability .
 
 row164:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10029,10 +9733,6 @@ ns1:table-1-gid-165 ns1:Materialname [ a oa:Annotation ;
 row165:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row165:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row165:MassMeasurementCapability .
-
 row165:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row165:ASTM_B214-07 ;
@@ -10106,10 +9806,6 @@ ns1:table-1-gid-166 ns1:Materialname [ a oa:Annotation ;
 
 row166:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row166:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row166:MassMeasurementCapability .
 
 row166:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10185,10 +9881,6 @@ ns1:table-1-gid-167 ns1:Materialname [ a oa:Annotation ;
 row167:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row167:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row167:MassMeasurementCapability .
-
 row167:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row167:ASTM_B214-07 ;
@@ -10262,10 +9954,6 @@ ns1:table-1-gid-168 ns1:Materialname [ a oa:Annotation ;
 
 row168:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row168:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row168:MassMeasurementCapability .
 
 row168:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10341,10 +10029,6 @@ ns1:table-1-gid-169 ns1:Materialname [ a oa:Annotation ;
 row169:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row169:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row169:MassMeasurementCapability .
-
 row169:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row169:ASTM_B214-07 ;
@@ -10418,10 +10102,6 @@ ns1:table-1-gid-17 ns1:Materialname [ a oa:Annotation ;
 
 row17:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row17:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row17:MassMeasurementCapability .
 
 row17:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10497,10 +10177,6 @@ ns1:table-1-gid-170 ns1:Materialname [ a oa:Annotation ;
 row170:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row170:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row170:MassMeasurementCapability .
-
 row170:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row170:ASTM_B214-07 ;
@@ -10574,10 +10250,6 @@ ns1:table-1-gid-171 ns1:Materialname [ a oa:Annotation ;
 
 row171:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row171:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row171:MassMeasurementCapability .
 
 row171:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10653,10 +10325,6 @@ ns1:table-1-gid-172 ns1:Materialname [ a oa:Annotation ;
 row172:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row172:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row172:MassMeasurementCapability .
-
 row172:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row172:ASTM_B214-07 ;
@@ -10730,10 +10398,6 @@ ns1:table-1-gid-173 ns1:Materialname [ a oa:Annotation ;
 
 row173:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row173:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row173:MassMeasurementCapability .
 
 row173:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10809,10 +10473,6 @@ ns1:table-1-gid-174 ns1:Materialname [ a oa:Annotation ;
 row174:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row174:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row174:MassMeasurementCapability .
-
 row174:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row174:ASTM_B214-07 ;
@@ -10886,10 +10546,6 @@ ns1:table-1-gid-175 ns1:Materialname [ a oa:Annotation ;
 
 row175:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row175:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row175:MassMeasurementCapability .
 
 row175:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -10965,10 +10621,6 @@ ns1:table-1-gid-176 ns1:Materialname [ a oa:Annotation ;
 row176:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row176:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row176:MassMeasurementCapability .
-
 row176:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row176:ASTM_B214-07 ;
@@ -11042,10 +10694,6 @@ ns1:table-1-gid-177 ns1:Materialname [ a oa:Annotation ;
 
 row177:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row177:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row177:MassMeasurementCapability .
 
 row177:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11121,10 +10769,6 @@ ns1:table-1-gid-178 ns1:Materialname [ a oa:Annotation ;
 row178:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row178:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row178:MassMeasurementCapability .
-
 row178:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row178:ASTM_B214-07 ;
@@ -11198,10 +10842,6 @@ ns1:table-1-gid-179 ns1:Materialname [ a oa:Annotation ;
 
 row179:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row179:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row179:MassMeasurementCapability .
 
 row179:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11277,10 +10917,6 @@ ns1:table-1-gid-18 ns1:Materialname [ a oa:Annotation ;
 row18:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row18:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row18:MassMeasurementCapability .
-
 row18:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row18:ASTM_B214-07 ;
@@ -11354,10 +10990,6 @@ ns1:table-1-gid-180 ns1:Materialname [ a oa:Annotation ;
 
 row180:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row180:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row180:MassMeasurementCapability .
 
 row180:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11433,10 +11065,6 @@ ns1:table-1-gid-181 ns1:Materialname [ a oa:Annotation ;
 row181:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row181:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row181:MassMeasurementCapability .
-
 row181:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row181:ASTM_B214-07 ;
@@ -11510,10 +11138,6 @@ ns1:table-1-gid-182 ns1:Materialname [ a oa:Annotation ;
 
 row182:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row182:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row182:MassMeasurementCapability .
 
 row182:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11589,10 +11213,6 @@ ns1:table-1-gid-183 ns1:Materialname [ a oa:Annotation ;
 row183:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row183:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row183:MassMeasurementCapability .
-
 row183:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row183:ASTM_B214-07 ;
@@ -11666,10 +11286,6 @@ ns1:table-1-gid-184 ns1:Materialname [ a oa:Annotation ;
 
 row184:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row184:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row184:MassMeasurementCapability .
 
 row184:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11745,10 +11361,6 @@ ns1:table-1-gid-185 ns1:Materialname [ a oa:Annotation ;
 row185:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row185:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row185:MassMeasurementCapability .
-
 row185:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row185:ASTM_B214-07 ;
@@ -11822,10 +11434,6 @@ ns1:table-1-gid-186 ns1:Materialname [ a oa:Annotation ;
 
 row186:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row186:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row186:MassMeasurementCapability .
 
 row186:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -11901,10 +11509,6 @@ ns1:table-1-gid-187 ns1:Materialname [ a oa:Annotation ;
 row187:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row187:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row187:MassMeasurementCapability .
-
 row187:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row187:ASTM_B214-07 ;
@@ -11978,10 +11582,6 @@ ns1:table-1-gid-188 ns1:Materialname [ a oa:Annotation ;
 
 row188:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row188:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row188:MassMeasurementCapability .
 
 row188:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12057,10 +11657,6 @@ ns1:table-1-gid-189 ns1:Materialname [ a oa:Annotation ;
 row189:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row189:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row189:MassMeasurementCapability .
-
 row189:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row189:ASTM_B214-07 ;
@@ -12134,10 +11730,6 @@ ns1:table-1-gid-19 ns1:Materialname [ a oa:Annotation ;
 
 row19:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row19:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row19:MassMeasurementCapability .
 
 row19:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12213,10 +11805,6 @@ ns1:table-1-gid-190 ns1:Materialname [ a oa:Annotation ;
 row190:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row190:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row190:MassMeasurementCapability .
-
 row190:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row190:ASTM_B214-07 ;
@@ -12290,10 +11878,6 @@ ns1:table-1-gid-191 ns1:Materialname [ a oa:Annotation ;
 
 row191:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row191:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row191:MassMeasurementCapability .
 
 row191:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12369,10 +11953,6 @@ ns1:table-1-gid-2 ns1:Materialname [ a oa:Annotation ;
 row2:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row2:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row2:MassMeasurementCapability .
-
 row2:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row2:ASTM_B214-07 ;
@@ -12446,10 +12026,6 @@ ns1:table-1-gid-20 ns1:Materialname [ a oa:Annotation ;
 
 row20:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row20:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row20:MassMeasurementCapability .
 
 row20:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12525,10 +12101,6 @@ ns1:table-1-gid-21 ns1:Materialname [ a oa:Annotation ;
 row21:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row21:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row21:MassMeasurementCapability .
-
 row21:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row21:ASTM_B214-07 ;
@@ -12602,10 +12174,6 @@ ns1:table-1-gid-22 ns1:Materialname [ a oa:Annotation ;
 
 row22:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row22:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row22:MassMeasurementCapability .
 
 row22:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12681,10 +12249,6 @@ ns1:table-1-gid-23 ns1:Materialname [ a oa:Annotation ;
 row23:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row23:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row23:MassMeasurementCapability .
-
 row23:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row23:ASTM_B214-07 ;
@@ -12758,10 +12322,6 @@ ns1:table-1-gid-24 ns1:Materialname [ a oa:Annotation ;
 
 row24:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row24:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row24:MassMeasurementCapability .
 
 row24:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12837,10 +12397,6 @@ ns1:table-1-gid-25 ns1:Materialname [ a oa:Annotation ;
 row25:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row25:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row25:MassMeasurementCapability .
-
 row25:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row25:ASTM_B214-07 ;
@@ -12914,10 +12470,6 @@ ns1:table-1-gid-26 ns1:Materialname [ a oa:Annotation ;
 
 row26:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row26:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row26:MassMeasurementCapability .
 
 row26:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -12993,10 +12545,6 @@ ns1:table-1-gid-27 ns1:Materialname [ a oa:Annotation ;
 row27:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row27:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row27:MassMeasurementCapability .
-
 row27:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row27:ASTM_B214-07 ;
@@ -13070,10 +12618,6 @@ ns1:table-1-gid-28 ns1:Materialname [ a oa:Annotation ;
 
 row28:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row28:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row28:MassMeasurementCapability .
 
 row28:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13149,10 +12693,6 @@ ns1:table-1-gid-29 ns1:Materialname [ a oa:Annotation ;
 row29:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row29:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row29:MassMeasurementCapability .
-
 row29:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row29:ASTM_B214-07 ;
@@ -13226,10 +12766,6 @@ ns1:table-1-gid-3 ns1:Materialname [ a oa:Annotation ;
 
 row3:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row3:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row3:MassMeasurementCapability .
 
 row3:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13305,10 +12841,6 @@ ns1:table-1-gid-30 ns1:Materialname [ a oa:Annotation ;
 row30:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row30:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row30:MassMeasurementCapability .
-
 row30:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row30:ASTM_B214-07 ;
@@ -13382,10 +12914,6 @@ ns1:table-1-gid-31 ns1:Materialname [ a oa:Annotation ;
 
 row31:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row31:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row31:MassMeasurementCapability .
 
 row31:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13461,10 +12989,6 @@ ns1:table-1-gid-32 ns1:Materialname [ a oa:Annotation ;
 row32:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row32:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row32:MassMeasurementCapability .
-
 row32:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row32:ASTM_B214-07 ;
@@ -13538,10 +13062,6 @@ ns1:table-1-gid-33 ns1:Materialname [ a oa:Annotation ;
 
 row33:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row33:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row33:MassMeasurementCapability .
 
 row33:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13617,10 +13137,6 @@ ns1:table-1-gid-34 ns1:Materialname [ a oa:Annotation ;
 row34:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row34:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row34:MassMeasurementCapability .
-
 row34:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row34:ASTM_B214-07 ;
@@ -13694,10 +13210,6 @@ ns1:table-1-gid-35 ns1:Materialname [ a oa:Annotation ;
 
 row35:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row35:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row35:MassMeasurementCapability .
 
 row35:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13773,10 +13285,6 @@ ns1:table-1-gid-36 ns1:Materialname [ a oa:Annotation ;
 row36:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row36:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row36:MassMeasurementCapability .
-
 row36:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row36:ASTM_B214-07 ;
@@ -13850,10 +13358,6 @@ ns1:table-1-gid-37 ns1:Materialname [ a oa:Annotation ;
 
 row37:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row37:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row37:MassMeasurementCapability .
 
 row37:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -13929,10 +13433,6 @@ ns1:table-1-gid-38 ns1:Materialname [ a oa:Annotation ;
 row38:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row38:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row38:MassMeasurementCapability .
-
 row38:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row38:ASTM_B214-07 ;
@@ -14006,10 +13506,6 @@ ns1:table-1-gid-39 ns1:Materialname [ a oa:Annotation ;
 
 row39:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row39:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row39:MassMeasurementCapability .
 
 row39:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14085,10 +13581,6 @@ ns1:table-1-gid-4 ns1:Materialname [ a oa:Annotation ;
 row4:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row4:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row4:MassMeasurementCapability .
-
 row4:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row4:ASTM_B214-07 ;
@@ -14162,10 +13654,6 @@ ns1:table-1-gid-40 ns1:Materialname [ a oa:Annotation ;
 
 row40:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row40:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row40:MassMeasurementCapability .
 
 row40:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14241,10 +13729,6 @@ ns1:table-1-gid-41 ns1:Materialname [ a oa:Annotation ;
 row41:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row41:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row41:MassMeasurementCapability .
-
 row41:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row41:ASTM_B214-07 ;
@@ -14318,10 +13802,6 @@ ns1:table-1-gid-42 ns1:Materialname [ a oa:Annotation ;
 
 row42:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row42:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row42:MassMeasurementCapability .
 
 row42:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14397,10 +13877,6 @@ ns1:table-1-gid-43 ns1:Materialname [ a oa:Annotation ;
 row43:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row43:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row43:MassMeasurementCapability .
-
 row43:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row43:ASTM_B214-07 ;
@@ -14474,10 +13950,6 @@ ns1:table-1-gid-44 ns1:Materialname [ a oa:Annotation ;
 
 row44:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row44:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row44:MassMeasurementCapability .
 
 row44:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14553,10 +14025,6 @@ ns1:table-1-gid-45 ns1:Materialname [ a oa:Annotation ;
 row45:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row45:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row45:MassMeasurementCapability .
-
 row45:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row45:ASTM_B214-07 ;
@@ -14630,10 +14098,6 @@ ns1:table-1-gid-46 ns1:Materialname [ a oa:Annotation ;
 
 row46:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row46:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row46:MassMeasurementCapability .
 
 row46:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14709,10 +14173,6 @@ ns1:table-1-gid-47 ns1:Materialname [ a oa:Annotation ;
 row47:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row47:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row47:MassMeasurementCapability .
-
 row47:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row47:ASTM_B214-07 ;
@@ -14786,10 +14246,6 @@ ns1:table-1-gid-48 ns1:Materialname [ a oa:Annotation ;
 
 row48:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row48:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row48:MassMeasurementCapability .
 
 row48:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -14865,10 +14321,6 @@ ns1:table-1-gid-49 ns1:Materialname [ a oa:Annotation ;
 row49:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row49:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row49:MassMeasurementCapability .
-
 row49:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row49:ASTM_B214-07 ;
@@ -14942,10 +14394,6 @@ ns1:table-1-gid-5 ns1:Materialname [ a oa:Annotation ;
 
 row5:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row5:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row5:MassMeasurementCapability .
 
 row5:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15021,10 +14469,6 @@ ns1:table-1-gid-50 ns1:Materialname [ a oa:Annotation ;
 row50:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row50:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row50:MassMeasurementCapability .
-
 row50:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row50:ASTM_B214-07 ;
@@ -15098,10 +14542,6 @@ ns1:table-1-gid-51 ns1:Materialname [ a oa:Annotation ;
 
 row51:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row51:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row51:MassMeasurementCapability .
 
 row51:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15177,10 +14617,6 @@ ns1:table-1-gid-52 ns1:Materialname [ a oa:Annotation ;
 row52:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row52:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row52:MassMeasurementCapability .
-
 row52:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row52:ASTM_B214-07 ;
@@ -15254,10 +14690,6 @@ ns1:table-1-gid-53 ns1:Materialname [ a oa:Annotation ;
 
 row53:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row53:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row53:MassMeasurementCapability .
 
 row53:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15333,10 +14765,6 @@ ns1:table-1-gid-54 ns1:Materialname [ a oa:Annotation ;
 row54:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row54:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row54:MassMeasurementCapability .
-
 row54:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row54:ASTM_B214-07 ;
@@ -15410,10 +14838,6 @@ ns1:table-1-gid-55 ns1:Materialname [ a oa:Annotation ;
 
 row55:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row55:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row55:MassMeasurementCapability .
 
 row55:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15489,10 +14913,6 @@ ns1:table-1-gid-56 ns1:Materialname [ a oa:Annotation ;
 row56:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row56:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row56:MassMeasurementCapability .
-
 row56:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row56:ASTM_B214-07 ;
@@ -15566,10 +14986,6 @@ ns1:table-1-gid-57 ns1:Materialname [ a oa:Annotation ;
 
 row57:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row57:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row57:MassMeasurementCapability .
 
 row57:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15645,10 +15061,6 @@ ns1:table-1-gid-58 ns1:Materialname [ a oa:Annotation ;
 row58:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row58:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row58:MassMeasurementCapability .
-
 row58:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row58:ASTM_B214-07 ;
@@ -15722,10 +15134,6 @@ ns1:table-1-gid-59 ns1:Materialname [ a oa:Annotation ;
 
 row59:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row59:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row59:MassMeasurementCapability .
 
 row59:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15801,10 +15209,6 @@ ns1:table-1-gid-6 ns1:Materialname [ a oa:Annotation ;
 row6:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row6:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row6:MassMeasurementCapability .
-
 row6:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row6:ASTM_B214-07 ;
@@ -15878,10 +15282,6 @@ ns1:table-1-gid-60 ns1:Materialname [ a oa:Annotation ;
 
 row60:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row60:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row60:MassMeasurementCapability .
 
 row60:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -15957,10 +15357,6 @@ ns1:table-1-gid-61 ns1:Materialname [ a oa:Annotation ;
 row61:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row61:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row61:MassMeasurementCapability .
-
 row61:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row61:ASTM_B214-07 ;
@@ -16034,10 +15430,6 @@ ns1:table-1-gid-62 ns1:Materialname [ a oa:Annotation ;
 
 row62:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row62:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row62:MassMeasurementCapability .
 
 row62:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16113,10 +15505,6 @@ ns1:table-1-gid-63 ns1:Materialname [ a oa:Annotation ;
 row63:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row63:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row63:MassMeasurementCapability .
-
 row63:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row63:ASTM_B214-07 ;
@@ -16190,10 +15578,6 @@ ns1:table-1-gid-64 ns1:Materialname [ a oa:Annotation ;
 
 row64:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row64:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row64:MassMeasurementCapability .
 
 row64:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16269,10 +15653,6 @@ ns1:table-1-gid-65 ns1:Materialname [ a oa:Annotation ;
 row65:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row65:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row65:MassMeasurementCapability .
-
 row65:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row65:ASTM_B214-07 ;
@@ -16346,10 +15726,6 @@ ns1:table-1-gid-66 ns1:Materialname [ a oa:Annotation ;
 
 row66:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row66:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row66:MassMeasurementCapability .
 
 row66:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16425,10 +15801,6 @@ ns1:table-1-gid-67 ns1:Materialname [ a oa:Annotation ;
 row67:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row67:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row67:MassMeasurementCapability .
-
 row67:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row67:ASTM_B214-07 ;
@@ -16502,10 +15874,6 @@ ns1:table-1-gid-68 ns1:Materialname [ a oa:Annotation ;
 
 row68:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row68:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row68:MassMeasurementCapability .
 
 row68:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16581,10 +15949,6 @@ ns1:table-1-gid-69 ns1:Materialname [ a oa:Annotation ;
 row69:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row69:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row69:MassMeasurementCapability .
-
 row69:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row69:ASTM_B214-07 ;
@@ -16658,10 +16022,6 @@ ns1:table-1-gid-7 ns1:Materialname [ a oa:Annotation ;
 
 row7:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row7:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row7:MassMeasurementCapability .
 
 row7:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16737,10 +16097,6 @@ ns1:table-1-gid-70 ns1:Materialname [ a oa:Annotation ;
 row70:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row70:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row70:MassMeasurementCapability .
-
 row70:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row70:ASTM_B214-07 ;
@@ -16814,10 +16170,6 @@ ns1:table-1-gid-71 ns1:Materialname [ a oa:Annotation ;
 
 row71:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row71:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row71:MassMeasurementCapability .
 
 row71:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -16893,10 +16245,6 @@ ns1:table-1-gid-72 ns1:Materialname [ a oa:Annotation ;
 row72:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row72:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row72:MassMeasurementCapability .
-
 row72:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row72:ASTM_B214-07 ;
@@ -16970,10 +16318,6 @@ ns1:table-1-gid-73 ns1:Materialname [ a oa:Annotation ;
 
 row73:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row73:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row73:MassMeasurementCapability .
 
 row73:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17049,10 +16393,6 @@ ns1:table-1-gid-74 ns1:Materialname [ a oa:Annotation ;
 row74:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row74:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row74:MassMeasurementCapability .
-
 row74:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row74:ASTM_B214-07 ;
@@ -17126,10 +16466,6 @@ ns1:table-1-gid-75 ns1:Materialname [ a oa:Annotation ;
 
 row75:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row75:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row75:MassMeasurementCapability .
 
 row75:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17205,10 +16541,6 @@ ns1:table-1-gid-76 ns1:Materialname [ a oa:Annotation ;
 row76:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row76:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row76:MassMeasurementCapability .
-
 row76:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row76:ASTM_B214-07 ;
@@ -17282,10 +16614,6 @@ ns1:table-1-gid-77 ns1:Materialname [ a oa:Annotation ;
 
 row77:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row77:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row77:MassMeasurementCapability .
 
 row77:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17361,10 +16689,6 @@ ns1:table-1-gid-78 ns1:Materialname [ a oa:Annotation ;
 row78:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row78:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row78:MassMeasurementCapability .
-
 row78:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row78:ASTM_B214-07 ;
@@ -17438,10 +16762,6 @@ ns1:table-1-gid-79 ns1:Materialname [ a oa:Annotation ;
 
 row79:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row79:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row79:MassMeasurementCapability .
 
 row79:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17517,10 +16837,6 @@ ns1:table-1-gid-8 ns1:Materialname [ a oa:Annotation ;
 row8:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row8:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row8:MassMeasurementCapability .
-
 row8:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row8:ASTM_B214-07 ;
@@ -17594,10 +16910,6 @@ ns1:table-1-gid-80 ns1:Materialname [ a oa:Annotation ;
 
 row80:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row80:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row80:MassMeasurementCapability .
 
 row80:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17673,10 +16985,6 @@ ns1:table-1-gid-81 ns1:Materialname [ a oa:Annotation ;
 row81:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row81:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row81:MassMeasurementCapability .
-
 row81:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row81:ASTM_B214-07 ;
@@ -17750,10 +17058,6 @@ ns1:table-1-gid-82 ns1:Materialname [ a oa:Annotation ;
 
 row82:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row82:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row82:MassMeasurementCapability .
 
 row82:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17829,10 +17133,6 @@ ns1:table-1-gid-83 ns1:Materialname [ a oa:Annotation ;
 row83:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row83:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row83:MassMeasurementCapability .
-
 row83:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row83:ASTM_B214-07 ;
@@ -17906,10 +17206,6 @@ ns1:table-1-gid-84 ns1:Materialname [ a oa:Annotation ;
 
 row84:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row84:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row84:MassMeasurementCapability .
 
 row84:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -17985,10 +17281,6 @@ ns1:table-1-gid-85 ns1:Materialname [ a oa:Annotation ;
 row85:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row85:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row85:MassMeasurementCapability .
-
 row85:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row85:ASTM_B214-07 ;
@@ -18062,10 +17354,6 @@ ns1:table-1-gid-86 ns1:Materialname [ a oa:Annotation ;
 
 row86:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row86:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row86:MassMeasurementCapability .
 
 row86:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18141,10 +17429,6 @@ ns1:table-1-gid-87 ns1:Materialname [ a oa:Annotation ;
 row87:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row87:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row87:MassMeasurementCapability .
-
 row87:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row87:ASTM_B214-07 ;
@@ -18218,10 +17502,6 @@ ns1:table-1-gid-88 ns1:Materialname [ a oa:Annotation ;
 
 row88:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row88:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row88:MassMeasurementCapability .
 
 row88:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18297,10 +17577,6 @@ ns1:table-1-gid-89 ns1:Materialname [ a oa:Annotation ;
 row89:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row89:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row89:MassMeasurementCapability .
-
 row89:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row89:ASTM_B214-07 ;
@@ -18374,10 +17650,6 @@ ns1:table-1-gid-9 ns1:Materialname [ a oa:Annotation ;
 
 row9:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row9:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row9:MassMeasurementCapability .
 
 row9:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18453,10 +17725,6 @@ ns1:table-1-gid-90 ns1:Materialname [ a oa:Annotation ;
 row90:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row90:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row90:MassMeasurementCapability .
-
 row90:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row90:ASTM_B214-07 ;
@@ -18530,10 +17798,6 @@ ns1:table-1-gid-91 ns1:Materialname [ a oa:Annotation ;
 
 row91:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row91:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row91:MassMeasurementCapability .
 
 row91:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18609,10 +17873,6 @@ ns1:table-1-gid-92 ns1:Materialname [ a oa:Annotation ;
 row92:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row92:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row92:MassMeasurementCapability .
-
 row92:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row92:ASTM_B214-07 ;
@@ -18686,10 +17946,6 @@ ns1:table-1-gid-93 ns1:Materialname [ a oa:Annotation ;
 
 row93:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row93:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row93:MassMeasurementCapability .
 
 row93:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18765,10 +18021,6 @@ ns1:table-1-gid-94 ns1:Materialname [ a oa:Annotation ;
 row94:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row94:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row94:MassMeasurementCapability .
-
 row94:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row94:ASTM_B214-07 ;
@@ -18842,10 +18094,6 @@ ns1:table-1-gid-95 ns1:Materialname [ a oa:Annotation ;
 
 row95:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row95:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row95:MassMeasurementCapability .
 
 row95:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -18921,10 +18169,6 @@ ns1:table-1-gid-96 ns1:Materialname [ a oa:Annotation ;
 row96:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row96:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row96:MassMeasurementCapability .
-
 row96:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row96:ASTM_B214-07 ;
@@ -18998,10 +18242,6 @@ ns1:table-1-gid-97 ns1:Materialname [ a oa:Annotation ;
 
 row97:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
-
-row97:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row97:MassMeasurementCapability .
 
 row97:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
@@ -19077,10 +18317,6 @@ ns1:table-1-gid-98 ns1:Materialname [ a oa:Annotation ;
 row98:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row98:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row98:MassMeasurementCapability .
-
 row98:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row98:ASTM_B214-07 ;
@@ -19155,10 +18391,6 @@ ns1:table-1-gid-99 ns1:Materialname [ a oa:Annotation ;
 row99:ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-row99:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability row99:MassMeasurementCapability .
-
 row99:MetalPowderSizeMeasurement a owl:NamedIndividual,
         iof:MeasurementProcess ;
     mutil:concretizes row99:ASTM_B214-07 ;
@@ -19187,6 +18419,10 @@ row99:TakingSample a owl:NamedIndividual,
         iof-mat:SubdivisionProcess ;
     iof:hasOutput row99:Specimen .
 
+row0:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row0:MassMeasurementCapability .
+
 row0:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19212,6 +18448,10 @@ row0:Sieve a owl:NamedIndividual,
 
 row0:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row1:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row1:MassMeasurementCapability .
 
 row1:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19239,6 +18479,10 @@ row1:Sieve a owl:NamedIndividual,
 row1:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row10:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row10:MassMeasurementCapability .
+
 row10:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19264,6 +18508,10 @@ row10:Sieve a owl:NamedIndividual,
 
 row10:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row100:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row100:MassMeasurementCapability .
 
 row100:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19291,6 +18539,10 @@ row100:Sieve a owl:NamedIndividual,
 row100:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row101:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row101:MassMeasurementCapability .
+
 row101:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19316,6 +18568,10 @@ row101:Sieve a owl:NamedIndividual,
 
 row101:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row102:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row102:MassMeasurementCapability .
 
 row102:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19343,6 +18599,10 @@ row102:Sieve a owl:NamedIndividual,
 row102:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row103:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row103:MassMeasurementCapability .
+
 row103:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19368,6 +18628,10 @@ row103:Sieve a owl:NamedIndividual,
 
 row103:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row104:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row104:MassMeasurementCapability .
 
 row104:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19395,6 +18659,10 @@ row104:Sieve a owl:NamedIndividual,
 row104:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row105:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row105:MassMeasurementCapability .
+
 row105:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19420,6 +18688,10 @@ row105:Sieve a owl:NamedIndividual,
 
 row105:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row106:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row106:MassMeasurementCapability .
 
 row106:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19447,6 +18719,10 @@ row106:Sieve a owl:NamedIndividual,
 row106:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row107:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row107:MassMeasurementCapability .
+
 row107:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19472,6 +18748,10 @@ row107:Sieve a owl:NamedIndividual,
 
 row107:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row108:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row108:MassMeasurementCapability .
 
 row108:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19499,6 +18779,10 @@ row108:Sieve a owl:NamedIndividual,
 row108:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row109:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row109:MassMeasurementCapability .
+
 row109:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19524,6 +18808,10 @@ row109:Sieve a owl:NamedIndividual,
 
 row109:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row11:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row11:MassMeasurementCapability .
 
 row11:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19551,6 +18839,10 @@ row11:Sieve a owl:NamedIndividual,
 row11:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row110:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row110:MassMeasurementCapability .
+
 row110:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19576,6 +18868,10 @@ row110:Sieve a owl:NamedIndividual,
 
 row110:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row111:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row111:MassMeasurementCapability .
 
 row111:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19603,6 +18899,10 @@ row111:Sieve a owl:NamedIndividual,
 row111:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row112:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row112:MassMeasurementCapability .
+
 row112:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19628,6 +18928,10 @@ row112:Sieve a owl:NamedIndividual,
 
 row112:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row113:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row113:MassMeasurementCapability .
 
 row113:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19655,6 +18959,10 @@ row113:Sieve a owl:NamedIndividual,
 row113:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row114:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row114:MassMeasurementCapability .
+
 row114:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19680,6 +18988,10 @@ row114:Sieve a owl:NamedIndividual,
 
 row114:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row115:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row115:MassMeasurementCapability .
 
 row115:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19707,6 +19019,10 @@ row115:Sieve a owl:NamedIndividual,
 row115:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row116:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row116:MassMeasurementCapability .
+
 row116:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19732,6 +19048,10 @@ row116:Sieve a owl:NamedIndividual,
 
 row116:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row117:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row117:MassMeasurementCapability .
 
 row117:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19759,6 +19079,10 @@ row117:Sieve a owl:NamedIndividual,
 row117:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row118:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row118:MassMeasurementCapability .
+
 row118:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19784,6 +19108,10 @@ row118:Sieve a owl:NamedIndividual,
 
 row118:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row119:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row119:MassMeasurementCapability .
 
 row119:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19811,6 +19139,10 @@ row119:Sieve a owl:NamedIndividual,
 row119:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row12:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row12:MassMeasurementCapability .
+
 row12:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19836,6 +19168,10 @@ row12:Sieve a owl:NamedIndividual,
 
 row12:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row120:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row120:MassMeasurementCapability .
 
 row120:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19863,6 +19199,10 @@ row120:Sieve a owl:NamedIndividual,
 row120:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row121:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row121:MassMeasurementCapability .
+
 row121:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19888,6 +19228,10 @@ row121:Sieve a owl:NamedIndividual,
 
 row121:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row122:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row122:MassMeasurementCapability .
 
 row122:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19915,6 +19259,10 @@ row122:Sieve a owl:NamedIndividual,
 row122:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row123:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row123:MassMeasurementCapability .
+
 row123:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19940,6 +19288,10 @@ row123:Sieve a owl:NamedIndividual,
 
 row123:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row124:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row124:MassMeasurementCapability .
 
 row124:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -19967,6 +19319,10 @@ row124:Sieve a owl:NamedIndividual,
 row124:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row125:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row125:MassMeasurementCapability .
+
 row125:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -19992,6 +19348,10 @@ row125:Sieve a owl:NamedIndividual,
 
 row125:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row126:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row126:MassMeasurementCapability .
 
 row126:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20019,6 +19379,10 @@ row126:Sieve a owl:NamedIndividual,
 row126:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row127:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row127:MassMeasurementCapability .
+
 row127:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20044,6 +19408,10 @@ row127:Sieve a owl:NamedIndividual,
 
 row127:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row128:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row128:MassMeasurementCapability .
 
 row128:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20071,6 +19439,10 @@ row128:Sieve a owl:NamedIndividual,
 row128:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row129:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row129:MassMeasurementCapability .
+
 row129:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20096,6 +19468,10 @@ row129:Sieve a owl:NamedIndividual,
 
 row129:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row13:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row13:MassMeasurementCapability .
 
 row13:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20123,6 +19499,10 @@ row13:Sieve a owl:NamedIndividual,
 row13:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row130:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row130:MassMeasurementCapability .
+
 row130:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20148,6 +19528,10 @@ row130:Sieve a owl:NamedIndividual,
 
 row130:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row131:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row131:MassMeasurementCapability .
 
 row131:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20175,6 +19559,10 @@ row131:Sieve a owl:NamedIndividual,
 row131:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row132:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row132:MassMeasurementCapability .
+
 row132:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20200,6 +19588,10 @@ row132:Sieve a owl:NamedIndividual,
 
 row132:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row133:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row133:MassMeasurementCapability .
 
 row133:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20227,6 +19619,10 @@ row133:Sieve a owl:NamedIndividual,
 row133:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row134:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row134:MassMeasurementCapability .
+
 row134:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20252,6 +19648,10 @@ row134:Sieve a owl:NamedIndividual,
 
 row134:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row135:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row135:MassMeasurementCapability .
 
 row135:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20279,6 +19679,10 @@ row135:Sieve a owl:NamedIndividual,
 row135:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row136:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row136:MassMeasurementCapability .
+
 row136:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20304,6 +19708,10 @@ row136:Sieve a owl:NamedIndividual,
 
 row136:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row137:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row137:MassMeasurementCapability .
 
 row137:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20331,6 +19739,10 @@ row137:Sieve a owl:NamedIndividual,
 row137:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row138:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row138:MassMeasurementCapability .
+
 row138:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20356,6 +19768,10 @@ row138:Sieve a owl:NamedIndividual,
 
 row138:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row139:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row139:MassMeasurementCapability .
 
 row139:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20383,6 +19799,10 @@ row139:Sieve a owl:NamedIndividual,
 row139:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row14:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row14:MassMeasurementCapability .
+
 row14:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20408,6 +19828,10 @@ row14:Sieve a owl:NamedIndividual,
 
 row14:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row140:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row140:MassMeasurementCapability .
 
 row140:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20435,6 +19859,10 @@ row140:Sieve a owl:NamedIndividual,
 row140:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row141:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row141:MassMeasurementCapability .
+
 row141:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20460,6 +19888,10 @@ row141:Sieve a owl:NamedIndividual,
 
 row141:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row142:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row142:MassMeasurementCapability .
 
 row142:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20487,6 +19919,10 @@ row142:Sieve a owl:NamedIndividual,
 row142:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row143:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row143:MassMeasurementCapability .
+
 row143:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20512,6 +19948,10 @@ row143:Sieve a owl:NamedIndividual,
 
 row143:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row144:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row144:MassMeasurementCapability .
 
 row144:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20539,6 +19979,10 @@ row144:Sieve a owl:NamedIndividual,
 row144:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row145:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row145:MassMeasurementCapability .
+
 row145:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20564,6 +20008,10 @@ row145:Sieve a owl:NamedIndividual,
 
 row145:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row146:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row146:MassMeasurementCapability .
 
 row146:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20591,6 +20039,10 @@ row146:Sieve a owl:NamedIndividual,
 row146:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row147:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row147:MassMeasurementCapability .
+
 row147:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20616,6 +20068,10 @@ row147:Sieve a owl:NamedIndividual,
 
 row147:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row148:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row148:MassMeasurementCapability .
 
 row148:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20643,6 +20099,10 @@ row148:Sieve a owl:NamedIndividual,
 row148:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row149:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row149:MassMeasurementCapability .
+
 row149:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20668,6 +20128,10 @@ row149:Sieve a owl:NamedIndividual,
 
 row149:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row15:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row15:MassMeasurementCapability .
 
 row15:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20695,6 +20159,10 @@ row15:Sieve a owl:NamedIndividual,
 row15:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row150:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row150:MassMeasurementCapability .
+
 row150:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20720,6 +20188,10 @@ row150:Sieve a owl:NamedIndividual,
 
 row150:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row151:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row151:MassMeasurementCapability .
 
 row151:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20747,6 +20219,10 @@ row151:Sieve a owl:NamedIndividual,
 row151:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row152:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row152:MassMeasurementCapability .
+
 row152:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20772,6 +20248,10 @@ row152:Sieve a owl:NamedIndividual,
 
 row152:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row153:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row153:MassMeasurementCapability .
 
 row153:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20799,6 +20279,10 @@ row153:Sieve a owl:NamedIndividual,
 row153:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row154:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row154:MassMeasurementCapability .
+
 row154:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20824,6 +20308,10 @@ row154:Sieve a owl:NamedIndividual,
 
 row154:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row155:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row155:MassMeasurementCapability .
 
 row155:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20851,6 +20339,10 @@ row155:Sieve a owl:NamedIndividual,
 row155:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row156:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row156:MassMeasurementCapability .
+
 row156:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20876,6 +20368,10 @@ row156:Sieve a owl:NamedIndividual,
 
 row156:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row157:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row157:MassMeasurementCapability .
 
 row157:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20903,6 +20399,10 @@ row157:Sieve a owl:NamedIndividual,
 row157:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row158:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row158:MassMeasurementCapability .
+
 row158:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20928,6 +20428,10 @@ row158:Sieve a owl:NamedIndividual,
 
 row158:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row159:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row159:MassMeasurementCapability .
 
 row159:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -20955,6 +20459,10 @@ row159:Sieve a owl:NamedIndividual,
 row159:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row16:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row16:MassMeasurementCapability .
+
 row16:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -20980,6 +20488,10 @@ row16:Sieve a owl:NamedIndividual,
 
 row16:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row160:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row160:MassMeasurementCapability .
 
 row160:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21007,6 +20519,10 @@ row160:Sieve a owl:NamedIndividual,
 row160:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row161:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row161:MassMeasurementCapability .
+
 row161:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21032,6 +20548,10 @@ row161:Sieve a owl:NamedIndividual,
 
 row161:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row162:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row162:MassMeasurementCapability .
 
 row162:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21059,6 +20579,10 @@ row162:Sieve a owl:NamedIndividual,
 row162:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row163:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row163:MassMeasurementCapability .
+
 row163:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21084,6 +20608,10 @@ row163:Sieve a owl:NamedIndividual,
 
 row163:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row164:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row164:MassMeasurementCapability .
 
 row164:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21111,6 +20639,10 @@ row164:Sieve a owl:NamedIndividual,
 row164:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row165:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row165:MassMeasurementCapability .
+
 row165:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21136,6 +20668,10 @@ row165:Sieve a owl:NamedIndividual,
 
 row165:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row166:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row166:MassMeasurementCapability .
 
 row166:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21163,6 +20699,10 @@ row166:Sieve a owl:NamedIndividual,
 row166:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row167:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row167:MassMeasurementCapability .
+
 row167:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21188,6 +20728,10 @@ row167:Sieve a owl:NamedIndividual,
 
 row167:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row168:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row168:MassMeasurementCapability .
 
 row168:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21215,6 +20759,10 @@ row168:Sieve a owl:NamedIndividual,
 row168:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row169:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row169:MassMeasurementCapability .
+
 row169:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21240,6 +20788,10 @@ row169:Sieve a owl:NamedIndividual,
 
 row169:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row17:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row17:MassMeasurementCapability .
 
 row17:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21267,6 +20819,10 @@ row17:Sieve a owl:NamedIndividual,
 row17:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row170:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row170:MassMeasurementCapability .
+
 row170:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21292,6 +20848,10 @@ row170:Sieve a owl:NamedIndividual,
 
 row170:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row171:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row171:MassMeasurementCapability .
 
 row171:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21319,6 +20879,10 @@ row171:Sieve a owl:NamedIndividual,
 row171:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row172:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row172:MassMeasurementCapability .
+
 row172:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21344,6 +20908,10 @@ row172:Sieve a owl:NamedIndividual,
 
 row172:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row173:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row173:MassMeasurementCapability .
 
 row173:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21371,6 +20939,10 @@ row173:Sieve a owl:NamedIndividual,
 row173:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row174:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row174:MassMeasurementCapability .
+
 row174:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21396,6 +20968,10 @@ row174:Sieve a owl:NamedIndividual,
 
 row174:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row175:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row175:MassMeasurementCapability .
 
 row175:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21423,6 +20999,10 @@ row175:Sieve a owl:NamedIndividual,
 row175:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row176:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row176:MassMeasurementCapability .
+
 row176:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21448,6 +21028,10 @@ row176:Sieve a owl:NamedIndividual,
 
 row176:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row177:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row177:MassMeasurementCapability .
 
 row177:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21475,6 +21059,10 @@ row177:Sieve a owl:NamedIndividual,
 row177:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row178:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row178:MassMeasurementCapability .
+
 row178:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21500,6 +21088,10 @@ row178:Sieve a owl:NamedIndividual,
 
 row178:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row179:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row179:MassMeasurementCapability .
 
 row179:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21527,6 +21119,10 @@ row179:Sieve a owl:NamedIndividual,
 row179:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row18:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row18:MassMeasurementCapability .
+
 row18:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21552,6 +21148,10 @@ row18:Sieve a owl:NamedIndividual,
 
 row18:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row180:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row180:MassMeasurementCapability .
 
 row180:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21579,6 +21179,10 @@ row180:Sieve a owl:NamedIndividual,
 row180:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row181:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row181:MassMeasurementCapability .
+
 row181:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21604,6 +21208,10 @@ row181:Sieve a owl:NamedIndividual,
 
 row181:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row182:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row182:MassMeasurementCapability .
 
 row182:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21631,6 +21239,10 @@ row182:Sieve a owl:NamedIndividual,
 row182:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row183:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row183:MassMeasurementCapability .
+
 row183:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21656,6 +21268,10 @@ row183:Sieve a owl:NamedIndividual,
 
 row183:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row184:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row184:MassMeasurementCapability .
 
 row184:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21683,6 +21299,10 @@ row184:Sieve a owl:NamedIndividual,
 row184:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row185:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row185:MassMeasurementCapability .
+
 row185:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21708,6 +21328,10 @@ row185:Sieve a owl:NamedIndividual,
 
 row185:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row186:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row186:MassMeasurementCapability .
 
 row186:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21735,6 +21359,10 @@ row186:Sieve a owl:NamedIndividual,
 row186:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row187:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row187:MassMeasurementCapability .
+
 row187:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21760,6 +21388,10 @@ row187:Sieve a owl:NamedIndividual,
 
 row187:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row188:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row188:MassMeasurementCapability .
 
 row188:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21787,6 +21419,10 @@ row188:Sieve a owl:NamedIndividual,
 row188:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row189:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row189:MassMeasurementCapability .
+
 row189:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21812,6 +21448,10 @@ row189:Sieve a owl:NamedIndividual,
 
 row189:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row19:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row19:MassMeasurementCapability .
 
 row19:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21839,6 +21479,10 @@ row19:Sieve a owl:NamedIndividual,
 row19:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row190:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row190:MassMeasurementCapability .
+
 row190:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21864,6 +21508,10 @@ row190:Sieve a owl:NamedIndividual,
 
 row190:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row191:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row191:MassMeasurementCapability .
 
 row191:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21891,6 +21539,10 @@ row191:Sieve a owl:NamedIndividual,
 row191:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row2:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row2:MassMeasurementCapability .
+
 row2:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21916,6 +21568,10 @@ row2:Sieve a owl:NamedIndividual,
 
 row2:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row20:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row20:MassMeasurementCapability .
 
 row20:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21943,6 +21599,10 @@ row20:Sieve a owl:NamedIndividual,
 row20:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row21:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row21:MassMeasurementCapability .
+
 row21:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -21968,6 +21628,10 @@ row21:Sieve a owl:NamedIndividual,
 
 row21:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row22:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row22:MassMeasurementCapability .
 
 row22:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -21995,6 +21659,10 @@ row22:Sieve a owl:NamedIndividual,
 row22:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row23:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row23:MassMeasurementCapability .
+
 row23:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22020,6 +21688,10 @@ row23:Sieve a owl:NamedIndividual,
 
 row23:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row24:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row24:MassMeasurementCapability .
 
 row24:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22047,6 +21719,10 @@ row24:Sieve a owl:NamedIndividual,
 row24:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row25:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row25:MassMeasurementCapability .
+
 row25:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22072,6 +21748,10 @@ row25:Sieve a owl:NamedIndividual,
 
 row25:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row26:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row26:MassMeasurementCapability .
 
 row26:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22099,6 +21779,10 @@ row26:Sieve a owl:NamedIndividual,
 row26:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row27:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row27:MassMeasurementCapability .
+
 row27:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22124,6 +21808,10 @@ row27:Sieve a owl:NamedIndividual,
 
 row27:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row28:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row28:MassMeasurementCapability .
 
 row28:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22151,6 +21839,10 @@ row28:Sieve a owl:NamedIndividual,
 row28:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row29:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row29:MassMeasurementCapability .
+
 row29:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22176,6 +21868,10 @@ row29:Sieve a owl:NamedIndividual,
 
 row29:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row3:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row3:MassMeasurementCapability .
 
 row3:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22203,6 +21899,10 @@ row3:Sieve a owl:NamedIndividual,
 row3:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row30:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row30:MassMeasurementCapability .
+
 row30:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22228,6 +21928,10 @@ row30:Sieve a owl:NamedIndividual,
 
 row30:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row31:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row31:MassMeasurementCapability .
 
 row31:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22255,6 +21959,10 @@ row31:Sieve a owl:NamedIndividual,
 row31:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row32:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row32:MassMeasurementCapability .
+
 row32:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22280,6 +21988,10 @@ row32:Sieve a owl:NamedIndividual,
 
 row32:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row33:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row33:MassMeasurementCapability .
 
 row33:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22307,6 +22019,10 @@ row33:Sieve a owl:NamedIndividual,
 row33:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row34:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row34:MassMeasurementCapability .
+
 row34:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22332,6 +22048,10 @@ row34:Sieve a owl:NamedIndividual,
 
 row34:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row35:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row35:MassMeasurementCapability .
 
 row35:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22359,6 +22079,10 @@ row35:Sieve a owl:NamedIndividual,
 row35:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row36:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row36:MassMeasurementCapability .
+
 row36:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22384,6 +22108,10 @@ row36:Sieve a owl:NamedIndividual,
 
 row36:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row37:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row37:MassMeasurementCapability .
 
 row37:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22411,6 +22139,10 @@ row37:Sieve a owl:NamedIndividual,
 row37:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row38:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row38:MassMeasurementCapability .
+
 row38:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22436,6 +22168,10 @@ row38:Sieve a owl:NamedIndividual,
 
 row38:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row39:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row39:MassMeasurementCapability .
 
 row39:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22463,6 +22199,10 @@ row39:Sieve a owl:NamedIndividual,
 row39:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row4:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row4:MassMeasurementCapability .
+
 row4:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22488,6 +22228,10 @@ row4:Sieve a owl:NamedIndividual,
 
 row4:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row40:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row40:MassMeasurementCapability .
 
 row40:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22515,6 +22259,10 @@ row40:Sieve a owl:NamedIndividual,
 row40:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row41:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row41:MassMeasurementCapability .
+
 row41:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22540,6 +22288,10 @@ row41:Sieve a owl:NamedIndividual,
 
 row41:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row42:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row42:MassMeasurementCapability .
 
 row42:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22567,6 +22319,10 @@ row42:Sieve a owl:NamedIndividual,
 row42:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row43:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row43:MassMeasurementCapability .
+
 row43:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22592,6 +22348,10 @@ row43:Sieve a owl:NamedIndividual,
 
 row43:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row44:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row44:MassMeasurementCapability .
 
 row44:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22619,6 +22379,10 @@ row44:Sieve a owl:NamedIndividual,
 row44:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row45:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row45:MassMeasurementCapability .
+
 row45:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22644,6 +22408,10 @@ row45:Sieve a owl:NamedIndividual,
 
 row45:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row46:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row46:MassMeasurementCapability .
 
 row46:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22671,6 +22439,10 @@ row46:Sieve a owl:NamedIndividual,
 row46:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row47:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row47:MassMeasurementCapability .
+
 row47:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22696,6 +22468,10 @@ row47:Sieve a owl:NamedIndividual,
 
 row47:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row48:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row48:MassMeasurementCapability .
 
 row48:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22723,6 +22499,10 @@ row48:Sieve a owl:NamedIndividual,
 row48:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row49:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row49:MassMeasurementCapability .
+
 row49:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22748,6 +22528,10 @@ row49:Sieve a owl:NamedIndividual,
 
 row49:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row5:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row5:MassMeasurementCapability .
 
 row5:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22775,6 +22559,10 @@ row5:Sieve a owl:NamedIndividual,
 row5:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row50:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row50:MassMeasurementCapability .
+
 row50:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22800,6 +22588,10 @@ row50:Sieve a owl:NamedIndividual,
 
 row50:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row51:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row51:MassMeasurementCapability .
 
 row51:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22827,6 +22619,10 @@ row51:Sieve a owl:NamedIndividual,
 row51:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row52:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row52:MassMeasurementCapability .
+
 row52:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22852,6 +22648,10 @@ row52:Sieve a owl:NamedIndividual,
 
 row52:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row53:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row53:MassMeasurementCapability .
 
 row53:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22879,6 +22679,10 @@ row53:Sieve a owl:NamedIndividual,
 row53:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row54:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row54:MassMeasurementCapability .
+
 row54:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22904,6 +22708,10 @@ row54:Sieve a owl:NamedIndividual,
 
 row54:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row55:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row55:MassMeasurementCapability .
 
 row55:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22931,6 +22739,10 @@ row55:Sieve a owl:NamedIndividual,
 row55:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row56:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row56:MassMeasurementCapability .
+
 row56:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -22956,6 +22768,10 @@ row56:Sieve a owl:NamedIndividual,
 
 row56:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row57:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row57:MassMeasurementCapability .
 
 row57:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -22983,6 +22799,10 @@ row57:Sieve a owl:NamedIndividual,
 row57:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row58:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row58:MassMeasurementCapability .
+
 row58:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23008,6 +22828,10 @@ row58:Sieve a owl:NamedIndividual,
 
 row58:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row59:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row59:MassMeasurementCapability .
 
 row59:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23035,6 +22859,10 @@ row59:Sieve a owl:NamedIndividual,
 row59:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row6:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row6:MassMeasurementCapability .
+
 row6:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23060,6 +22888,10 @@ row6:Sieve a owl:NamedIndividual,
 
 row6:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row60:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row60:MassMeasurementCapability .
 
 row60:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23087,6 +22919,10 @@ row60:Sieve a owl:NamedIndividual,
 row60:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row61:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row61:MassMeasurementCapability .
+
 row61:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23112,6 +22948,10 @@ row61:Sieve a owl:NamedIndividual,
 
 row61:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row62:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row62:MassMeasurementCapability .
 
 row62:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23139,6 +22979,10 @@ row62:Sieve a owl:NamedIndividual,
 row62:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row63:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row63:MassMeasurementCapability .
+
 row63:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23164,6 +23008,10 @@ row63:Sieve a owl:NamedIndividual,
 
 row63:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row64:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row64:MassMeasurementCapability .
 
 row64:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23191,6 +23039,10 @@ row64:Sieve a owl:NamedIndividual,
 row64:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row65:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row65:MassMeasurementCapability .
+
 row65:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23216,6 +23068,10 @@ row65:Sieve a owl:NamedIndividual,
 
 row65:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row66:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row66:MassMeasurementCapability .
 
 row66:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23243,6 +23099,10 @@ row66:Sieve a owl:NamedIndividual,
 row66:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row67:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row67:MassMeasurementCapability .
+
 row67:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23268,6 +23128,10 @@ row67:Sieve a owl:NamedIndividual,
 
 row67:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row68:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row68:MassMeasurementCapability .
 
 row68:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23295,6 +23159,10 @@ row68:Sieve a owl:NamedIndividual,
 row68:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row69:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row69:MassMeasurementCapability .
+
 row69:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23320,6 +23188,10 @@ row69:Sieve a owl:NamedIndividual,
 
 row69:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row7:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row7:MassMeasurementCapability .
 
 row7:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23347,6 +23219,10 @@ row7:Sieve a owl:NamedIndividual,
 row7:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row70:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row70:MassMeasurementCapability .
+
 row70:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23372,6 +23248,10 @@ row70:Sieve a owl:NamedIndividual,
 
 row70:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row71:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row71:MassMeasurementCapability .
 
 row71:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23399,6 +23279,10 @@ row71:Sieve a owl:NamedIndividual,
 row71:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row72:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row72:MassMeasurementCapability .
+
 row72:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23424,6 +23308,10 @@ row72:Sieve a owl:NamedIndividual,
 
 row72:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row73:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row73:MassMeasurementCapability .
 
 row73:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23451,6 +23339,10 @@ row73:Sieve a owl:NamedIndividual,
 row73:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row74:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row74:MassMeasurementCapability .
+
 row74:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23476,6 +23368,10 @@ row74:Sieve a owl:NamedIndividual,
 
 row74:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row75:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row75:MassMeasurementCapability .
 
 row75:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23503,6 +23399,10 @@ row75:Sieve a owl:NamedIndividual,
 row75:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row76:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row76:MassMeasurementCapability .
+
 row76:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23528,6 +23428,10 @@ row76:Sieve a owl:NamedIndividual,
 
 row76:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row77:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row77:MassMeasurementCapability .
 
 row77:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23555,6 +23459,10 @@ row77:Sieve a owl:NamedIndividual,
 row77:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row78:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row78:MassMeasurementCapability .
+
 row78:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23580,6 +23488,10 @@ row78:Sieve a owl:NamedIndividual,
 
 row78:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row79:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row79:MassMeasurementCapability .
 
 row79:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23607,6 +23519,10 @@ row79:Sieve a owl:NamedIndividual,
 row79:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row8:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row8:MassMeasurementCapability .
+
 row8:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23632,6 +23548,10 @@ row8:Sieve a owl:NamedIndividual,
 
 row8:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row80:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row80:MassMeasurementCapability .
 
 row80:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23659,6 +23579,10 @@ row80:Sieve a owl:NamedIndividual,
 row80:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row81:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row81:MassMeasurementCapability .
+
 row81:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23684,6 +23608,10 @@ row81:Sieve a owl:NamedIndividual,
 
 row81:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row82:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row82:MassMeasurementCapability .
 
 row82:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23711,6 +23639,10 @@ row82:Sieve a owl:NamedIndividual,
 row82:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row83:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row83:MassMeasurementCapability .
+
 row83:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23736,6 +23668,10 @@ row83:Sieve a owl:NamedIndividual,
 
 row83:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row84:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row84:MassMeasurementCapability .
 
 row84:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23763,6 +23699,10 @@ row84:Sieve a owl:NamedIndividual,
 row84:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row85:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row85:MassMeasurementCapability .
+
 row85:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23788,6 +23728,10 @@ row85:Sieve a owl:NamedIndividual,
 
 row85:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row86:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row86:MassMeasurementCapability .
 
 row86:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23815,6 +23759,10 @@ row86:Sieve a owl:NamedIndividual,
 row86:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row87:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row87:MassMeasurementCapability .
+
 row87:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23840,6 +23788,10 @@ row87:Sieve a owl:NamedIndividual,
 
 row87:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row88:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row88:MassMeasurementCapability .
 
 row88:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23867,6 +23819,10 @@ row88:Sieve a owl:NamedIndividual,
 row88:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row89:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row89:MassMeasurementCapability .
+
 row89:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23892,6 +23848,10 @@ row89:Sieve a owl:NamedIndividual,
 
 row89:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row9:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row9:MassMeasurementCapability .
 
 row9:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23919,6 +23879,10 @@ row9:Sieve a owl:NamedIndividual,
 row9:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row90:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row90:MassMeasurementCapability .
+
 row90:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23944,6 +23908,10 @@ row90:Sieve a owl:NamedIndividual,
 
 row90:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row91:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row91:MassMeasurementCapability .
 
 row91:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -23971,6 +23939,10 @@ row91:Sieve a owl:NamedIndividual,
 row91:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row92:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row92:MassMeasurementCapability .
+
 row92:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -23996,6 +23968,10 @@ row92:Sieve a owl:NamedIndividual,
 
 row92:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row93:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row93:MassMeasurementCapability .
 
 row93:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -24023,6 +23999,10 @@ row93:Sieve a owl:NamedIndividual,
 row93:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row94:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row94:MassMeasurementCapability .
+
 row94:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -24048,6 +24028,10 @@ row94:Sieve a owl:NamedIndividual,
 
 row94:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row95:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row95:MassMeasurementCapability .
 
 row95:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -24075,6 +24059,10 @@ row95:Sieve a owl:NamedIndividual,
 row95:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row96:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row96:MassMeasurementCapability .
+
 row96:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -24100,6 +24088,10 @@ row96:Sieve a owl:NamedIndividual,
 
 row96:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row97:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row97:MassMeasurementCapability .
 
 row97:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -24127,6 +24119,10 @@ row97:Sieve a owl:NamedIndividual,
 row97:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
 
+row98:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row98:MassMeasurementCapability .
+
 row98:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -24152,6 +24148,10 @@ row98:Sieve a owl:NamedIndividual,
 
 row98:SpecimenID a owl:NamedIndividual,
         iof:Identifier .
+
+row99:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability row99:MassMeasurementCapability .
 
 row99:FeedStockID a owl:NamedIndividual,
         iof:Identifier .
@@ -24184,1344 +24184,1536 @@ row0:ParticleDiameter a owl:NamedIndividual,
     iof:masuredByAtSomeTime row0:Sieve .
 
 row0:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row0:Balance .
 
 row1:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row1:Sieve .
 
 row1:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row1:Balance .
 
 row10:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row10:Sieve .
 
 row10:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row10:Balance .
 
 row100:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row100:Sieve .
 
 row100:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row100:Balance .
 
 row101:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row101:Sieve .
 
 row101:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row101:Balance .
 
 row102:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row102:Sieve .
 
 row102:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row102:Balance .
 
 row103:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row103:Sieve .
 
 row103:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row103:Balance .
 
 row104:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row104:Sieve .
 
 row104:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row104:Balance .
 
 row105:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row105:Sieve .
 
 row105:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row105:Balance .
 
 row106:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row106:Sieve .
 
 row106:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row106:Balance .
 
 row107:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row107:Sieve .
 
 row107:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row107:Balance .
 
 row108:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row108:Sieve .
 
 row108:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row108:Balance .
 
 row109:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row109:Sieve .
 
 row109:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row109:Balance .
 
 row11:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row11:Sieve .
 
 row11:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row11:Balance .
 
 row110:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row110:Sieve .
 
 row110:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row110:Balance .
 
 row111:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row111:Sieve .
 
 row111:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row111:Balance .
 
 row112:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row112:Sieve .
 
 row112:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row112:Balance .
 
 row113:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row113:Sieve .
 
 row113:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row113:Balance .
 
 row114:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row114:Sieve .
 
 row114:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row114:Balance .
 
 row115:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row115:Sieve .
 
 row115:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row115:Balance .
 
 row116:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row116:Sieve .
 
 row116:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row116:Balance .
 
 row117:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row117:Sieve .
 
 row117:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row117:Balance .
 
 row118:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row118:Sieve .
 
 row118:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row118:Balance .
 
 row119:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row119:Sieve .
 
 row119:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row119:Balance .
 
 row12:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row12:Sieve .
 
 row12:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row12:Balance .
 
 row120:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row120:Sieve .
 
 row120:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row120:Balance .
 
 row121:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row121:Sieve .
 
 row121:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row121:Balance .
 
 row122:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row122:Sieve .
 
 row122:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row122:Balance .
 
 row123:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row123:Sieve .
 
 row123:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row123:Balance .
 
 row124:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row124:Sieve .
 
 row124:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row124:Balance .
 
 row125:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row125:Sieve .
 
 row125:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row125:Balance .
 
 row126:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row126:Sieve .
 
 row126:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row126:Balance .
 
 row127:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row127:Sieve .
 
 row127:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row127:Balance .
 
 row128:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row128:Sieve .
 
 row128:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row128:Balance .
 
 row129:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row129:Sieve .
 
 row129:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row129:Balance .
 
 row13:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row13:Sieve .
 
 row13:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row13:Balance .
 
 row130:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row130:Sieve .
 
 row130:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row130:Balance .
 
 row131:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row131:Sieve .
 
 row131:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row131:Balance .
 
 row132:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row132:Sieve .
 
 row132:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row132:Balance .
 
 row133:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row133:Sieve .
 
 row133:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row133:Balance .
 
 row134:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row134:Sieve .
 
 row134:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row134:Balance .
 
 row135:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row135:Sieve .
 
 row135:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row135:Balance .
 
 row136:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row136:Sieve .
 
 row136:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row136:Balance .
 
 row137:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row137:Sieve .
 
 row137:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row137:Balance .
 
 row138:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row138:Sieve .
 
 row138:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row138:Balance .
 
 row139:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row139:Sieve .
 
 row139:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row139:Balance .
 
 row14:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row14:Sieve .
 
 row14:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row14:Balance .
 
 row140:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row140:Sieve .
 
 row140:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row140:Balance .
 
 row141:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row141:Sieve .
 
 row141:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row141:Balance .
 
 row142:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row142:Sieve .
 
 row142:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row142:Balance .
 
 row143:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row143:Sieve .
 
 row143:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row143:Balance .
 
 row144:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row144:Sieve .
 
 row144:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row144:Balance .
 
 row145:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row145:Sieve .
 
 row145:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row145:Balance .
 
 row146:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row146:Sieve .
 
 row146:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row146:Balance .
 
 row147:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row147:Sieve .
 
 row147:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row147:Balance .
 
 row148:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row148:Sieve .
 
 row148:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row148:Balance .
 
 row149:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row149:Sieve .
 
 row149:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row149:Balance .
 
 row15:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row15:Sieve .
 
 row15:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row15:Balance .
 
 row150:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row150:Sieve .
 
 row150:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row150:Balance .
 
 row151:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row151:Sieve .
 
 row151:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row151:Balance .
 
 row152:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row152:Sieve .
 
 row152:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row152:Balance .
 
 row153:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row153:Sieve .
 
 row153:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row153:Balance .
 
 row154:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row154:Sieve .
 
 row154:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row154:Balance .
 
 row155:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row155:Sieve .
 
 row155:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row155:Balance .
 
 row156:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row156:Sieve .
 
 row156:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row156:Balance .
 
 row157:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row157:Sieve .
 
 row157:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row157:Balance .
 
 row158:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row158:Sieve .
 
 row158:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row158:Balance .
 
 row159:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row159:Sieve .
 
 row159:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row159:Balance .
 
 row16:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row16:Sieve .
 
 row16:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row16:Balance .
 
 row160:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row160:Sieve .
 
 row160:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row160:Balance .
 
 row161:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row161:Sieve .
 
 row161:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row161:Balance .
 
 row162:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row162:Sieve .
 
 row162:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row162:Balance .
 
 row163:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row163:Sieve .
 
 row163:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row163:Balance .
 
 row164:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row164:Sieve .
 
 row164:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row164:Balance .
 
 row165:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row165:Sieve .
 
 row165:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row165:Balance .
 
 row166:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row166:Sieve .
 
 row166:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row166:Balance .
 
 row167:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row167:Sieve .
 
 row167:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row167:Balance .
 
 row168:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row168:Sieve .
 
 row168:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row168:Balance .
 
 row169:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row169:Sieve .
 
 row169:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row169:Balance .
 
 row17:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row17:Sieve .
 
 row17:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row17:Balance .
 
 row170:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row170:Sieve .
 
 row170:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row170:Balance .
 
 row171:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row171:Sieve .
 
 row171:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row171:Balance .
 
 row172:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row172:Sieve .
 
 row172:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row172:Balance .
 
 row173:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row173:Sieve .
 
 row173:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row173:Balance .
 
 row174:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row174:Sieve .
 
 row174:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row174:Balance .
 
 row175:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row175:Sieve .
 
 row175:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row175:Balance .
 
 row176:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row176:Sieve .
 
 row176:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row176:Balance .
 
 row177:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row177:Sieve .
 
 row177:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row177:Balance .
 
 row178:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row178:Sieve .
 
 row178:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row178:Balance .
 
 row179:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row179:Sieve .
 
 row179:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row179:Balance .
 
 row18:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row18:Sieve .
 
 row18:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row18:Balance .
 
 row180:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row180:Sieve .
 
 row180:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row180:Balance .
 
 row181:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row181:Sieve .
 
 row181:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row181:Balance .
 
 row182:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row182:Sieve .
 
 row182:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row182:Balance .
 
 row183:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row183:Sieve .
 
 row183:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row183:Balance .
 
 row184:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row184:Sieve .
 
 row184:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row184:Balance .
 
 row185:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row185:Sieve .
 
 row185:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row185:Balance .
 
 row186:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row186:Sieve .
 
 row186:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row186:Balance .
 
 row187:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row187:Sieve .
 
 row187:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row187:Balance .
 
 row188:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row188:Sieve .
 
 row188:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row188:Balance .
 
 row189:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row189:Sieve .
 
 row189:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row189:Balance .
 
 row19:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row19:Sieve .
 
 row19:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row19:Balance .
 
 row190:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row190:Sieve .
 
 row190:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row190:Balance .
 
 row191:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row191:Sieve .
 
 row191:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row191:Balance .
 
 row2:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row2:Sieve .
 
 row2:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row2:Balance .
 
 row20:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row20:Sieve .
 
 row20:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row20:Balance .
 
 row21:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row21:Sieve .
 
 row21:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row21:Balance .
 
 row22:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row22:Sieve .
 
 row22:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row22:Balance .
 
 row23:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row23:Sieve .
 
 row23:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row23:Balance .
 
 row24:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row24:Sieve .
 
 row24:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row24:Balance .
 
 row25:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row25:Sieve .
 
 row25:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row25:Balance .
 
 row26:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row26:Sieve .
 
 row26:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row26:Balance .
 
 row27:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row27:Sieve .
 
 row27:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row27:Balance .
 
 row28:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row28:Sieve .
 
 row28:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row28:Balance .
 
 row29:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row29:Sieve .
 
 row29:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row29:Balance .
 
 row3:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row3:Sieve .
 
 row3:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row3:Balance .
 
 row30:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row30:Sieve .
 
 row30:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row30:Balance .
 
 row31:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row31:Sieve .
 
 row31:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row31:Balance .
 
 row32:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row32:Sieve .
 
 row32:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row32:Balance .
 
 row33:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row33:Sieve .
 
 row33:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row33:Balance .
 
 row34:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row34:Sieve .
 
 row34:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row34:Balance .
 
 row35:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row35:Sieve .
 
 row35:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row35:Balance .
 
 row36:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row36:Sieve .
 
 row36:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row36:Balance .
 
 row37:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row37:Sieve .
 
 row37:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row37:Balance .
 
 row38:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row38:Sieve .
 
 row38:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row38:Balance .
 
 row39:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row39:Sieve .
 
 row39:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row39:Balance .
 
 row4:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row4:Sieve .
 
 row4:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row4:Balance .
 
 row40:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row40:Sieve .
 
 row40:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row40:Balance .
 
 row41:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row41:Sieve .
 
 row41:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row41:Balance .
 
 row42:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row42:Sieve .
 
 row42:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row42:Balance .
 
 row43:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row43:Sieve .
 
 row43:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row43:Balance .
 
 row44:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row44:Sieve .
 
 row44:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row44:Balance .
 
 row45:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row45:Sieve .
 
 row45:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row45:Balance .
 
 row46:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row46:Sieve .
 
 row46:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row46:Balance .
 
 row47:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row47:Sieve .
 
 row47:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row47:Balance .
 
 row48:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row48:Sieve .
 
 row48:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row48:Balance .
 
 row49:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row49:Sieve .
 
 row49:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row49:Balance .
 
 row5:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row5:Sieve .
 
 row5:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row5:Balance .
 
 row50:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row50:Sieve .
 
 row50:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row50:Balance .
 
 row51:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row51:Sieve .
 
 row51:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row51:Balance .
 
 row52:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row52:Sieve .
 
 row52:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row52:Balance .
 
 row53:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row53:Sieve .
 
 row53:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row53:Balance .
 
 row54:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row54:Sieve .
 
 row54:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row54:Balance .
 
 row55:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row55:Sieve .
 
 row55:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row55:Balance .
 
 row56:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row56:Sieve .
 
 row56:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row56:Balance .
 
 row57:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row57:Sieve .
 
 row57:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row57:Balance .
 
 row58:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row58:Sieve .
 
 row58:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row58:Balance .
 
 row59:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row59:Sieve .
 
 row59:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row59:Balance .
 
 row6:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row6:Sieve .
 
 row6:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row6:Balance .
 
 row60:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row60:Sieve .
 
 row60:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row60:Balance .
 
 row61:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row61:Sieve .
 
 row61:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row61:Balance .
 
 row62:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row62:Sieve .
 
 row62:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row62:Balance .
 
 row63:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row63:Sieve .
 
 row63:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row63:Balance .
 
 row64:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row64:Sieve .
 
 row64:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row64:Balance .
 
 row65:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row65:Sieve .
 
 row65:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row65:Balance .
 
 row66:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row66:Sieve .
 
 row66:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row66:Balance .
 
 row67:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row67:Sieve .
 
 row67:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row67:Balance .
 
 row68:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row68:Sieve .
 
 row68:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row68:Balance .
 
 row69:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row69:Sieve .
 
 row69:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row69:Balance .
 
 row7:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row7:Sieve .
 
 row7:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row7:Balance .
 
 row70:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row70:Sieve .
 
 row70:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row70:Balance .
 
 row71:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row71:Sieve .
 
 row71:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row71:Balance .
 
 row72:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row72:Sieve .
 
 row72:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row72:Balance .
 
 row73:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row73:Sieve .
 
 row73:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row73:Balance .
 
 row74:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row74:Sieve .
 
 row74:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row74:Balance .
 
 row75:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row75:Sieve .
 
 row75:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row75:Balance .
 
 row76:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row76:Sieve .
 
 row76:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row76:Balance .
 
 row77:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row77:Sieve .
 
 row77:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row77:Balance .
 
 row78:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row78:Sieve .
 
 row78:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row78:Balance .
 
 row79:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row79:Sieve .
 
 row79:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row79:Balance .
 
 row8:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row8:Sieve .
 
 row8:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row8:Balance .
 
 row80:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row80:Sieve .
 
 row80:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row80:Balance .
 
 row81:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row81:Sieve .
 
 row81:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row81:Balance .
 
 row82:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row82:Sieve .
 
 row82:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row82:Balance .
 
 row83:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row83:Sieve .
 
 row83:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row83:Balance .
 
 row84:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row84:Sieve .
 
 row84:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row84:Balance .
 
 row85:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row85:Sieve .
 
 row85:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row85:Balance .
 
 row86:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row86:Sieve .
 
 row86:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row86:Balance .
 
 row87:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row87:Sieve .
 
 row87:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row87:Balance .
 
 row88:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row88:Sieve .
 
 row88:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row88:Balance .
 
 row89:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row89:Sieve .
 
 row89:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row89:Balance .
 
 row9:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row9:Sieve .
 
 row9:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row9:Balance .
 
 row90:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row90:Sieve .
 
 row90:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row90:Balance .
 
 row91:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row91:Sieve .
 
 row91:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row91:Balance .
 
 row92:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row92:Sieve .
 
 row92:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row92:Balance .
 
 row93:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row93:Sieve .
 
 row93:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row93:Balance .
 
 row94:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row94:Sieve .
 
 row94:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row94:Balance .
 
 row95:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row95:Sieve .
 
 row95:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row95:Balance .
 
 row96:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row96:Sieve .
 
 row96:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row96:Balance .
 
 row97:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row97:Sieve .
 
 row97:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row97:Balance .
 
 row98:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row98:Sieve .
 
 row98:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row98:Balance .
 
 row99:ParticleDiameter a owl:NamedIndividual,
         iof-qual:Diameter ;
     iof:masuredByAtSomeTime row99:Sieve .
 
 row99:ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime row99:Balance .
 
 iof:Assembly a owl:Class ;
     rdfs:label "Assembly" .
