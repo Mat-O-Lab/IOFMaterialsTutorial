@@ -36,8 +36,8 @@ mappings:
     condition:
       function: equal
       parameters:
-      - [str1, $(url)]
-      - [str2, https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv]
+      - [str1, $(@type)]
+      - [str2, TableGroup]
     po:
     - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:OutputData~iri']
   ParticleDiameter:
