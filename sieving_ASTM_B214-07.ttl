@@ -27,6 +27,7 @@ owl:versionInfo a owl:AnnotationProperty .
     dcterms:creator "Thomas Hanke" ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
     owl:imports <https://github.com/Mat-O-Lab/MSEO/raw/main/domain/util/readable_bfo_iris.ttl>,
+        <https://raw.githubusercontent.com/iofoundry/ontology/'qualities'/qualities/qualities.rdf>,
         <https://raw.githubusercontent.com/iofoundry/ontology/materials/materials/Materials.rdf> ;
     owl:versionInfo "0.0.1" ;
     mod:createdWith <https://chowlk.linkeddata.es/> .
