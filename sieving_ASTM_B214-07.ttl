@@ -82,10 +82,6 @@ iof:realizes a owl:ObjectProperty ;
 :ASTM_B214-07 a owl:NamedIndividual,
         iof-mat:Standard .
 
-:Balance a owl:NamedIndividual,
-        iof-mat:MeasurementDevice ;
-    iof:hasCapability :MassMeasurementCapability .
-
 :FeedStockID a owl:NamedIndividual,
         iof:Identifier .
 
@@ -155,6 +151,10 @@ iof-qual:Diameter a owl:Class ;
 iof-qual:MaterialComposition a owl:Class ;
     rdfs:label "Material Composition" .
 
+:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability :MassMeasurementCapability .
+
 :MassMeasurementCapability a owl:NamedIndividual,
         iof-mat:ForceMeasurementCapability .
 
@@ -171,7 +171,8 @@ iof-qual:MaterialComposition a owl:Class ;
         iof-mat:DistanceMeasurementCapability .
 
 :ParticlesMassFraction a owl:NamedIndividual,
-        iof-qual:MaterialComposition .
+        iof-qual:MaterialComposition ;
+    iof:masuredByAtSomeTime :Balance .
 
 :Sieve a owl:NamedIndividual,
         iof-mat:MeasurementDevice ;
