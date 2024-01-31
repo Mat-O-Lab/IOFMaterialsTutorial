@@ -1,0 +1,187 @@
+ @prefix : <https://github.com/Mat-O-Lab/IOFMaterialsTutorial/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix iof: <https://spec.industrialontologies.org/ontology/core/Core/> .
+@prefix iof-mat: <https://spec.industrialontologies.org/ontology/materials/Materials/> .
+@prefix iof-qual: <https://spec.industrialontologies.org/ontology/qualities/> .
+@prefix mod: <https://w3id.org/mod#> .
+@prefix mutil: <https://github.com/Mat-O-Lab/MSEO/raw/main/domain/util/readable_bfo_iris.ttl/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dcterms:abstract a owl:AnnotationProperty .
+
+dcterms:creator a owl:AnnotationProperty .
+
+dcterms:license a owl:AnnotationProperty .
+
+dcterms:source a owl:ObjectProperty ;
+    rdfs:label "source" .
+
+rdfs:label a owl:AnnotationProperty .
+
+owl:versionInfo a owl:AnnotationProperty .
+
+: a owl:Ontology ;
+    rdfs:label "Sieving of Metal Powders according to ASTM_B214-07"@en ;
+    dcterms:abstract "The graph describes the measurement of particle size in metal powders according ASTM_B214-07"@en ;
+    dcterms:creator "Thomas Hanke" ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+    owl:imports <https://github.com/Mat-O-Lab/MSEO/raw/main/domain/util/readable_bfo_iris.ttl>,
+        <https://raw.githubusercontent.com/iofoundry/ontology/materials/materials/Materials.rdf> ;
+    owl:versionInfo "0.0.1" ;
+    mod:createdWith <https://chowlk.linkeddata.es/> .
+
+:FeedStock a owl:NamedIndividual,
+        iof:MaterialArtifact ;
+    iof:designatedBy :FeedStockID ;
+    iof:isInputOf :TakingSample .
+
+mutil:concretizes a owl:ObjectProperty ;
+    rdfs:label "concretizes" .
+
+mutil:continuant_part_of_at_some_time a owl:ObjectProperty ;
+    rdfs:label "continuant_part_of_at_some_time" .
+
+mutil:has_occurrent_part a owl:ObjectProperty ;
+    rdfs:label "has_occurrent_part" .
+
+mutil:has_participant_at_some_time a owl:ObjectProperty ;
+    rdfs:label "has_participant_at_some_time" .
+
+mutil:precedes a owl:ObjectProperty ;
+    rdfs:label "precedes" .
+
+iof:designatedBy a owl:ObjectProperty ;
+    rdfs:label "designated by" .
+
+iof:hasCapability a owl:ObjectProperty ;
+    rdfs:label "has capability" .
+
+iof:hasOutput a owl:ObjectProperty ;
+    rdfs:label "has output" .
+
+iof:hasQuality a owl:ObjectProperty ;
+    rdfs:label "has quality" .
+
+iof:isAbout a owl:ObjectProperty ;
+    rdfs:label "is about" .
+
+iof:isInputOf a owl:ObjectProperty ;
+    rdfs:label "is input of" .
+
+iof:masuredByAtSomeTime a owl:ObjectProperty ;
+    rdfs:label "masured by at some time" .
+
+iof:realizes a owl:ObjectProperty ;
+    rdfs:label "realizes" .
+
+<https://www.astm.org/b0214-07.html> a owl:Class ;
+    rdfs:label "b0214-07.html" .
+
+:ASTM_B214-07 a owl:NamedIndividual,
+        iof-mat:Standard .
+
+:Balance a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability :MassMeasurementCapability .
+
+:FeedStockID a owl:NamedIndividual,
+        iof:Identifier .
+
+:MetalPowderSizeMeasurement a owl:NamedIndividual,
+        iof:MeasurementProcess ;
+    mutil:concretizes :ASTM_B214-07 ;
+    mutil:has_occurrent_part :MassMeasuring,
+        :Sieving ;
+    iof:hasOutput :OutputData .
+
+:OutputData a owl:NamedIndividual,
+        iof:MeasurementInformationContentEntity ;
+    iof:isAbout :ParticleDiameter,
+        :ParticlesMassFraction .
+
+:Particles a owl:NamedIndividual,
+        iof:Assembly ;
+    iof:hasQuality :ParticleDiameter,
+        :ParticlesMassFraction .
+
+:Sieving a owl:NamedIndividual,
+        iof:MeasurementProcess ;
+    mutil:has_participant_at_some_time :Sieve ;
+    mutil:precedes :MassMeasuring ;
+    iof:realizes :ParticleDiameterMeasurementCapability .
+
+:Specimen a owl:NamedIndividual,
+        iof-mat:Specimen ;
+    mutil:continuant_part_of_at_some_time :Particles ;
+    iof:designatedBy :SpecimenID ;
+    iof:isInputOf :MetalPowderSizeMeasurement .
+
+:SpecimenID a owl:NamedIndividual,
+        iof:Identifier .
+
+:TakingSample a owl:NamedIndividual,
+        iof-mat:SubdivisionProcess ;
+    iof:hasOutput :Specimen .
+
+iof:Assembly a owl:Class ;
+    rdfs:label "Assembly" .
+
+iof:MaterialArtifact a owl:Class ;
+    rdfs:label "Material Artifact" .
+
+iof:MeasurementInformationContentEntity a owl:Class ;
+    rdfs:label "Measurement Information Content Entity" .
+
+iof-mat:DistanceMeasurementCapability a owl:Class ;
+    rdfs:label "Distance Measurement Capability" .
+
+iof-mat:ForceMeasurementCapability a owl:Class ;
+    rdfs:label "Force Measurement Capability" .
+
+iof-mat:Specimen a owl:Class ;
+    rdfs:label "Specimen" .
+
+iof-mat:Standard a owl:Class ;
+    rdfs:label "Standard" .
+
+iof-mat:SubdivisionProcess a owl:Class ;
+    rdfs:label "Subdivision Process" .
+
+iof-qual:Diameter a owl:Class ;
+    rdfs:label "Diameter" .
+
+iof-qual:MaterialComposition a owl:Class ;
+    rdfs:label "Material Composition" .
+
+:MassMeasurementCapability a owl:NamedIndividual,
+        iof-mat:ForceMeasurementCapability .
+
+:MassMeasuring a owl:NamedIndividual,
+        iof:MeasurementProcess ;
+    mutil:has_participant_at_some_time :Balance ;
+    iof:realizes :MassMeasurementCapability .
+
+:ParticleDiameter a owl:NamedIndividual,
+        iof-qual:Diameter ;
+    iof:masuredByAtSomeTime :Sieve .
+
+:ParticleDiameterMeasurementCapability a owl:NamedIndividual,
+        iof-mat:DistanceMeasurementCapability .
+
+:ParticlesMassFraction a owl:NamedIndividual,
+        iof-qual:MaterialComposition .
+
+:Sieve a owl:NamedIndividual,
+        iof-mat:MeasurementDevice ;
+    iof:hasCapability :ParticleDiameterMeasurementCapability .
+
+iof:Identifier a owl:Class ;
+    rdfs:label "Identifier" .
+
+iof-mat:MeasurementDevice a owl:Class ;
+    rdfs:label "Measurement Device" .
+
+iof:MeasurementProcess a owl:Class ;
+    rdfs:label "Measurement Process" .
+
