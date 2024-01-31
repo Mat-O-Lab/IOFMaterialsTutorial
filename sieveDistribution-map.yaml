@@ -36,8 +36,8 @@ mappings:
     condition:
       function: equal
       parameters:
-      - [str1, $(name)]
-      - [str2, GID]
+      - [str1, $(url)]
+      - [str2, https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.csv]
     po:
     - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:OutputData~iri']
   ParticleDiameter:
@@ -49,7 +49,7 @@ mappings:
       - [str1, $(name)]
       - [str2, Particlesizem]
     po:
-    - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:ParticleDiameter~iri']
+    - ['https://spec.industrialontologies.org/ontology/core/Core/isMeasuredValueOfAtSomeTime', 'method:ParticleDiameter~iri']
   ParticlesMassFraction:
     sources: [data_entities]
     s: $(@id)
@@ -59,4 +59,4 @@ mappings:
       - [str1, $(name)]
       - [str2, Percentofmass]
     po:
-    - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:ParticlesMassFraction~iri']
+    - ['https://spec.industrialontologies.org/ontology/core/Core/isMeasuredValueOfAtSomeTime', 'method:ParticlesMassFraction~iri']
