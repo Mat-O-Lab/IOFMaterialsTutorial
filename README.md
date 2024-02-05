@@ -194,7 +194,7 @@ And at last we add the mapping rules for the measurement columns using the predi
 
 The resulting mapping file can be found [here](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-map.yaml).
 
-## Run the mapping
+## Run the Mapping
 Run the mapping like explained in  [Appy Mapping](#apply-mapping), no further changes needed.
 ```
 https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/sieveDistribution-map.yaml
