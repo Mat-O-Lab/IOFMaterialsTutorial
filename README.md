@@ -208,6 +208,7 @@ For better readability a prefix for every row index of the table is created.
 
 ## Hardness Measurements
 Using [HardnessGraph](https://gitlab.com/kupferdigital/process-graphs/vickers-hardness-test-fem)
-[Image](https://user-content.gitlab-static.net/e8fcc493e7403be54bcd61c1889d9eb8f191ead4/68747470733a2f2f6b75706665726469676974616c2e6769746c61622e696f2f70726f636573732d6772617068732f7669636b6572732d686172646e6573732d746573742d66656d2f7669636b6572732d686172646e6573732d746573742d66656d2e737667)
+![Image](https://user-content.gitlab-static.net/e8fcc493e7403be54bcd61c1889d9eb8f191ead4/68747470733a2f2f6b75706665726469676974616c2e6769746c61622e696f2f70726f636573732d6772617068732f7669636b6572732d686172646e6573732d746573742d66656d2f7669636b6572732d686172646e6573732d746573742d66656d2e737667)
+
 ## Image Analysis
-Using this [Repo](https://github.com/BAMresearch/DF-TEM-PAW/tree/main)
+Example using an OMERO Image Server, see doucmentation in this [Repo](https://github.com/BAMresearch/DF-TEM-PAW/tree/main).
