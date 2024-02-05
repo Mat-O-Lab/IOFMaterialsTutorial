@@ -131,7 +131,7 @@ The data is result of a powder sieving analysis according to ASTM B214-22.
   
 
 The data is downloaded through the implemented REST API reorganised and saved as [csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD.csv).
-To use the implemented lookup of the CSVToCSVW tool, the unit symbols are added the header labels as an be seen in the [adjusted csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD_adjusted.csv)
+To use the implemented lookup of the CSVToCSVW tool, the unit symbols are added the header labels as an be seen in the [adjusted csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD_adjusted.csv).
 
 ## Creating the Method Graph
 
