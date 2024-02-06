@@ -1,7 +1,11 @@
 version: "3.9"
 
 services:
-  debian:
-    image: debian
-    volumes:
-      - ${LOCAL_WORKSPACE_FOLDER:-./}:/workspace
+    graphdb:
+      image: khaller/graphdb-free:10.0.0
+      container_name: graphdb-free
+      ports:
+        - "7200:7200"
+      volumes:
+        - ./repository.init:/repository.init
+        - ${LOCAL_WORKSPACE_FOLDER:-.}/repository.init:/repository.init
