@@ -1,6 +1,6 @@
 # IOFMaterialsTutorial
 
-Tutorial for using Mat-O-Lab tools in conjunction with the [IOF ontologyies](https://github.com/iofoundry/ontology) to create sematic data for material science eated characterisaton methods.
+Tutorial for using Mat-O-Lab tools in conjunction with the [IOF ontologies](https://github.com/iofoundry/ontology) to create sematic data for material science eated characterisaton methods.
  
 Please notice that this tutorial is using unconfirmed experimental parts of the ontology stack like the [IOF qualities](https://github.com/iofoundry/ontology/blob/'qualities'/qualities/qualities.rdf) and the [IOF materials ontology](https://github.com/iofoundry/ontology/blob/materials/materials/Materials.rdf). This also includes some modelling strategies for including [QUDT](https://qudt.org/) concepts which are not officially accepted.
 
