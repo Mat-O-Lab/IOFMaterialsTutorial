@@ -1,5 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "service": "devcontainer",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
   },
