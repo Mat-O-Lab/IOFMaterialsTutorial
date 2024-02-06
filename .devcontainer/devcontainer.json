@@ -7,4 +7,5 @@
   "dockerComposeFile": [
 		"docker-compose.yml"
 	],
+  "forwardPorts": [7200]
 }
