@@ -5,6 +5,7 @@
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
   },
   "remoteEnv": { "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}" },
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "dockerComposeFile": [
 		"docker-compose.yml"
 	],
