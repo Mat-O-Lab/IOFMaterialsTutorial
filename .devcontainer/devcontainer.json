@@ -1,13 +1,12 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "service": "devcontainer",
-  "features": {
-    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
-  },
-  "remoteEnv": { "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}" },
-  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
-  "dockerComposeFile": [
+	"dockerComposeFile": "docker-compose.yaml",
+  	"service": "graphdb",
+	"features": {
+		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+	},
+  	"remoteEnv": { "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}" },
+  	"dockerComposeFile": [
 		"docker-compose.yml"
 	],
-  "forwardPorts": [7200]
+  	"forwardPorts": [7200]
 }
