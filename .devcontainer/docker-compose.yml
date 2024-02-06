@@ -7,4 +7,4 @@ services:
       ports:
         - "7200:7200"
       volumes:
-        - ${LOCAL_WORKSPACE_FOLDER:-.}/repository.init:/repository.init
+        - ../repository.init:/repository.init
