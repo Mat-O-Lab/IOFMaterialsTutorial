@@ -12,10 +12,8 @@
 	},
 
 	"features": {
-		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
-			"version": "${templateOption:dockerVersion}",
-			"enableNonRootDocker": "${templateOption:enableNonRootDocker}",
-			"moby": "${templateOption:moby}"
+		"ghcr.io/cirolosapio/devcontainers-features/alpine-docker-outside-of-docker:0": {
+			"installDockerCompose": true
 		}
 	}
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
