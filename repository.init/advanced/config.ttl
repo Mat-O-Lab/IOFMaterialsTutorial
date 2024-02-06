@@ -5,8 +5,8 @@
 @prefix owlim: <http://www.ontotext.com/trree/owlim#>.
 
 [] a rep:Repository ;
-    rep:repositoryID "basic" ;
-    rdfs:label "Basic Example" ;
+    rep:repositoryID "Advanced" ;
+    rdfs:label "Advanced Example" ;
     rep:repositoryImpl [
         rep:repositoryType "graphdb:SailRepository";
         sr:sailImpl [
