@@ -131,7 +131,7 @@ The data is result of a powder sieving analysis according to ASTM B214-22.
   
 
 The data is downloaded through the implemented REST API reorganised and saved as [csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD.csv).
-To use the implemented lookup of the CSVToCSVW tool, the unit symbols are added the header labels as an be seen in the [adjusted csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD_adjusted.csv)
+To use the implemented lookup of the CSVToCSVW tool, the unit symbols are added the header labels as an be seen in the [adjusted csv](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-AMMD_adjusted.csv).
 
 ## Creating the Method Graph
 
@@ -194,7 +194,7 @@ And at last we add the mapping rules for the measurement columns using the predi
 
 The resulting mapping file can be found [here](https://github.com/Mat-O-Lab/IOFMaterialsTutorial/blob/main/sieveDistribution-map.yaml).
 
-## Run the mapping
+## Run the Mapping
 Run the mapping like explained in  [Appy Mapping](#apply-mapping), no further changes needed.
 ```
 https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/sieveDistribution-map.yaml
@@ -207,7 +207,8 @@ For better readability a prefix for every row index of the table is created.
 # More Examples
 
 ## Hardness Measurements
-Using [HardnessGraph](https://gitlab.com/kupferdigital/process-graphs/vickers-hardness-test-fem)
-[Image](https://user-content.gitlab-static.net/e8fcc493e7403be54bcd61c1889d9eb8f191ead4/68747470733a2f2f6b75706665726469676974616c2e6769746c61622e696f2f70726f636573732d6772617068732f7669636b6572732d686172646e6573732d746573742d66656d2f7669636b6572732d686172646e6573732d746573742d66656d2e737667)
+Graph and Transformation for Vickers Hardness see this [Repo](https://gitlab.com/kupferdigital/process-graphs/vickers-hardness-test-fem). The Graph is visualized bellow.
+![Image](https://user-content.gitlab-static.net/e8fcc493e7403be54bcd61c1889d9eb8f191ead4/68747470733a2f2f6b75706665726469676974616c2e6769746c61622e696f2f70726f636573732d6772617068732f7669636b6572732d686172646e6573732d746573742d66656d2f7669636b6572732d686172646e6573732d746573742d66656d2e737667)
+
 ## Image Analysis
-Using this [Repo](https://github.com/BAMresearch/DF-TEM-PAW/tree/main)
+Example using an OMERO Image Server, see doucmentation in this [Repo](https://github.com/BAMresearch/DF-TEM-PAW/tree/main).
