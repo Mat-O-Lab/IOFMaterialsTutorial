@@ -26,6 +26,8 @@ Please notice that this tutorial is using unconfirmed experimental parts of the 
 # Basic Tutorial
 
 ## Introduction DrawIO and Chowlk
+In the basic tutorial we will use DrawIO and [Chowlk](https://chowlk.linkeddata.es/) to create a sematic graph representing a simple length measurement of an object as our basic user story. We will also map example data of the measurements taken to the graph.
+
  - Start DrawIO Session [ClickME](https://app.diagrams.net/)
  - Create a new Blank Diagram and give it a name 
   ```
