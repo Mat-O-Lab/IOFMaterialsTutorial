@@ -47,7 +47,7 @@ mappings:
       function: equal
       parameters:
       - [str1, $(name)]
-      - [str2, Particlesizem]
+      - [str2, Particlesize]
     po:
     - ['https://spec.industrialontologies.org/ontology/core/Core/isMeasuredValueOfAtSomeTime', 'method:ParticleDiameter~iri']
   ParticlesMassFraction:
