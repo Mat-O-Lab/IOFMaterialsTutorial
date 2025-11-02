@@ -4,7 +4,7 @@
 @prefix iof-mat: <https://spec.industrialontologies.org/ontology/materials/Materials/> .
 @prefix iof-qual: <https://spec.industrialontologies.org/ontology/qualities/> .
 @prefix mod: <https://w3id.org/mod#> .
-@prefix mutil: <https://github.com/Mat-O-Lab/MSEO/raw/main/domain/util/readable_bfo_iris.ttl/> .
+@prefix mutil: <https://raw.githubusercontent.com/Mat-O-Lab/MSEO/main/domain/util/readable_bfo_iris.ttl/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
