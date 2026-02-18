@@ -13,7 +13,7 @@ sources:
 use_template_rowwise: 'false'
 mappings:
   LengthData:
-    sources: [data_entities]
+    sources: [columns]
     s: $(@id)
     condition:
       function: equal
