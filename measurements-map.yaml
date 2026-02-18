@@ -6,8 +6,10 @@ prefixes: {bfo: 'http://purl.obolibrary.org/obo/', csvw: 'http://www.w3.org/ns/c
   xsd: 'http://www.w3.org/2001/XMLSchema#'}
 base: http://purl.matolab.org/mseo/mappings/
 sources:
-  data_entities: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
-    iterator: '$..[*]', referenceFormulation: jsonpath}
+  annotations: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
+    iterator: '$.notes[*]', referenceFormulation: jsonpath}
+  columns: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
+    iterator: '$.tables.tableSchema.columns[*]', referenceFormulation: jsonpath}
 use_template_rowwise: 'false'
 mappings:
   LengthData:
