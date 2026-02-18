@@ -6,12 +6,16 @@ prefixes: {bfo: 'http://purl.obolibrary.org/obo/', csvw: 'http://www.w3.org/ns/c
   xsd: 'http://www.w3.org/2001/XMLSchema#'}
 base: http://purl.matolab.org/mseo/mappings/
 sources:
-  data_entities: {access: 'https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.ttl',
-    iterator: '$..[*]', referenceFormulation: jsonpath}
+  root: {access: 'https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.ttl',
+    iterator: '$', referenceFormulation: jsonpath}
+  annotations: {access: 'https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.ttl',
+    iterator: '$.notes[*]', referenceFormulation: jsonpath}
+  columns: {access: 'https://github.com/Mat-O-Lab/IOFMaterialsTutorial/raw/main/sieveDistribution-AMMD_adjusted.ttl',
+    iterator: '$.tables[*].tableSchema.columns[*]', referenceFormulation: jsonpath}
 use_template_rowwise: 'true'
 mappings:
   FeedStockID:
-    sources: [data_entities]
+    sources: [columns]
     s: $(@id)
     condition:
       function: equal
@@ -21,7 +25,7 @@ mappings:
     po:
     - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:FeedStockID~iri']
   SpecimenID:
-    sources: [data_entities]
+    sources: [columns]
     s: $(@id)
     condition:
       function: equal
@@ -31,7 +35,7 @@ mappings:
     po:
     - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:SpecimenID~iri']
   OutputData:
-    sources: [data_entities]
+    sources: [root]
     s: $(@id)
     condition:
       function: equal
@@ -41,7 +45,7 @@ mappings:
     po:
     - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:OutputData~iri']
   ParticleDiameter:
-    sources: [data_entities]
+    sources: [columns]
     s: $(@id)
     condition:
       function: equal
@@ -51,7 +55,7 @@ mappings:
     po:
     - ['https://spec.industrialontologies.org/ontology/core/Core/isMeasuredValueOfAtSomeTime', 'method:ParticleDiameter~iri']
   ParticlesMassFraction:
-    sources: [data_entities]
+    sources: [columns]
     s: $(@id)
     condition:
       function: equal

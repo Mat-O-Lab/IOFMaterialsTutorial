@@ -9,7 +9,7 @@ sources:
   annotations: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
     iterator: '$.notes[*]', referenceFormulation: jsonpath}
   columns: {access: 'https://raw.githubusercontent.com/Mat-O-Lab/IOFMaterialsTutorial/main/measurements-metadata.json',
-    iterator: '$.tables.tableSchema.columns[*]', referenceFormulation: jsonpath}
+    iterator: '$.tables[*].tableSchema.columns[*]', referenceFormulation: jsonpath}
 use_template_rowwise: 'false'
 mappings:
   LengthData:
