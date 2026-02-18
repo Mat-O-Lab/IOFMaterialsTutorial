@@ -21,4 +21,4 @@ mappings:
       - [str1, $(name)]
       - [str2, LengthMm]
     po:
-    - ['http://purl.obolibrary.org/obo/RO_0010002', 'method:LengthData~iri']
+    - ['http://purl.obolibrary.org/obo/RO_0010002', 'template:LengthData~iri']
